@@ -1,6 +1,7 @@
 rm(list = ls())
 options(stringsAsFactors = F)
 library(devtools)
+library(ggrepel)
 library(Seurat)
 library(harmony)
 library(tidyverse)
