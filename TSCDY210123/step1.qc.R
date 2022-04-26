@@ -10,6 +10,7 @@ library(cowplot)
 library(dplyr)
 library(hdf5r)
 library(data.table)
+library(SeuratObject)
 
 dir <- './00.data/GSE175939_RAW/'
 samples=list.files(dir)
