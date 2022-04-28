@@ -23,9 +23,12 @@ scRNA <- FindNeighbors(scRNA, reduction = "harmony",
 
 scRNA <- FindClusters(scRNA,resolution = 0.1)
 Idents(scRNA) <- "seurat_clusters"
-scRNA <- subset(scRNA, idents = c(0:8))
+#scRNA <- subset(scRNA, idents = c(0:8))
 diff.mast = FindAllMarkers(scRNA,test.use ="MAST" )
-top10 <- diff.mast%>%group_by(cluster)%>%top_n(n=10,wt=avg_log2FC)
+all.markers = diff.mast %>% select(gene, everything()) %>% subset(p_val_adj<0.05)
+top10 <- all.markers%>%group_by(cluster)%>%top_n(n=10,wt=avg_log2FC)
+write.csv(all.markers, "./04.cell_type/diff_genes_mast.csv", row.names = F)
+write.csv(top10, "./04.cell_type/top10_diff_genes_mast.csv", row.names = F)
 
 ##singleR鉴定
 refdata <- MouseRNAseqData() 
@@ -52,6 +55,7 @@ celltype_marker=c(
 )
 FeaturePlot(scRNA,features = unique(celltype_marker), coord.fixed = T, order = T,
             reduction = "umap",cols = viridis(10))
+DotPlot(scRNA, features = celltype_marker)
 genes_to_check <- c("Apoa1",#Hepatocytes
                     "Pecam1",	#Endothelial
                    "Dcn","Lrat",'Pdgfrb','Des',##HSC标志基因
@@ -119,9 +123,23 @@ axis.ticks.x  = element_blank(),
 #axis.text.x = element_blank(),
 #legend.position = "none"
 )
-
 ggsave('./04.cell_type/cell_bar.jpg',p5,width =8,height = 6,dpi = 1000 )
 ggsave('./04.cell_type/cell_bar.pdf',p5,width =8,height = 6,dpi = 1000 )
+
+##热图
+scRNA$celltype <- factor(x=scRNA$celltype,
+                levels = c('Endothelial cells','Hepatocytes','Hepatic stellate cell',
+                          'Macrophage', 'T memory cells','B cells'))
+DoHeatmap(scRNA,features = top10$gene,group.by ='celltype',
+          assay = "RNA",group.colors = c("#FF6633","#663399","#FF3300","#663366","#FF9900","#66CC00"))+
+  scale_fill_gradientn(colors = c("#33FFFFy","white","#FF3300"))
+
+names(col) <- levels(cluster_info)
+top_anno <- HeatmapAnnotation(cluster=anno_block(gp=gpar(fill=col),
+                                                 labels = levels(cluster_info),
+                                                 labels_gp = gpar(cex=0.5,col='white')))
+
+
 system.time(save(scRNA, file = "./00.data/single_data/scRNA_celltype.Rdata"))
 
 

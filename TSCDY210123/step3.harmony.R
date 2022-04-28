@@ -18,6 +18,7 @@ library(MAST)
 load('./00.data/single_data/scRNA_qc.Rdata')
 scRNA <- SCTransform(scRNA)
 scRNA <- RunPCA(scRNA, verbose = F)
+ElbowPlot(scRNA, ndims = 50)
 pc.num=1:40
 scRNA <- scRNA %>% RunTSNE(dims=pc.num) %>% RunUMAP(dims=pc.num)
 scRNA <- FindNeighbors(scRNA, dims=pc.num) %>% FindClusters(resolution = 0.1)
@@ -42,7 +43,7 @@ P10 <- DimPlot(scRNA, group.by = "Sample", reduction = 'tsne',split.by = "Sample
 P11 <- DimPlot(scRNA, group.by = "Sample", reduction = 'umap',split.by = "Sample", ncol = 2)
 p12 <- (p3|p4)/(P10|P11)
 dir.create('./03.Harmony')
-ggsave('./03.Harmony/harmony_1.pdf',p9,width =12,height = 8,dpi = 1000 )
+ggsave('./03.Harmony/harmony_1.pdf',p9,width =8,height = 8,dpi = 1000 )
 ggsave('./03.Harmony/harmony_2.pdf',p12,width =12,height = 8,dpi = 1000 )
 system.time(save(scRNA, file = "./00.data/single_data/scRNA_harmony.Rdata"))  
 

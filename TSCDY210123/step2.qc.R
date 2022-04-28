@@ -10,7 +10,7 @@ library(dplyr)
 library(data.table)
 
 load('./00.data/single_data/scRNA_orig.Rdata')
-length(colnames(scRNA))#7727
+length(colnames(scRNA))#7227
 length(rownames(scRNA))#17224
 theme.set2 = theme(axis.title.x=element_blank())
 # 设置绘图元素
@@ -23,7 +23,7 @@ for(i in seq_along(plot.featrures)){
                        features = plot.featrures[i]) + theme.set2 + NoLegend()}
 violin <- wrap_plots(plots = plots, nrow=1,ncol = 4)    
 dir.create("./01.QC")
-ggsave("./01.QC/vlnplot_before_qc.pdf", plot = violin, width = 24, height = 12)
+ggsave("./01.QC/vlnplot_before_qc.pdf", plot = violin, width = 24, height = 12,dpi = 1000)
 ggsave("./01.QC/vlnplot_before_qc.jpg", plot = violin, width = 24, height = 12,dpi = 1000)
 
 ### 设置质控标准

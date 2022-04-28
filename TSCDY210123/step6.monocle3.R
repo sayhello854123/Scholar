@@ -46,16 +46,19 @@ p = plot_cells(cds, label_groups_by_cluster = FALSE, label_leaves = FALSE,
                label_branch_points = FALSE)
 ##细胞按拟时排序
 cds <- order_cells(cds) 
-plot_cells(cds, color_cells_by = "pseudotime", label_cell_groups = FALSE, 
+p1 <- plot_cells(cds, color_cells_by = "pseudotime", label_cell_groups = FALSE, 
            label_leaves = FALSE,  label_branch_points = FALSE)
-
+ggsave('./06.monocle3/m1.jpg',p1,width = 8,height = 6,dpi = 1000)
+ggsave('./06.monocle3/m1.pdf',p1,width = 8,height = 6,dpi = 1000)
 
 Track_genes <- graph_test(cds, neighbor_graph="principal_graph", cores=6)
-Track_genes <- Track_genes[,c(5,2,3,4,1,6)] %>% filter(q_value < 1e-3)
-write.csv(Track_genes, "Trajectory_genes.csv", row.names = F)
+#Track_genes <- Track_genes[,c(5,2,3,4,1,6)] %>% filter(q_value < 1e-3)
+write.csv(Track_genes, "./06.monocle3/Trajectory_genes.csv", row.names = F)
 Track_genes_sig <- Track_genes %>% top_n(n=10, morans_I) %>%
   pull(gene_short_name) %>% as.character()
 plot_genes_in_pseudotime(cds[Track_genes_sig,], color_cells_by="seurat_clusters", 
                          min_expr=0.5, ncol = 2)
-plot_genes_in_pseudotime(cds[celltype_marker,], color_cells_by="seurat_clusters", 
+p2 <- plot_genes_in_pseudotime(cds[celltype_marker,], color_cells_by="Sample", 
                          min_expr=0.5, ncol = 2)
+ggsave('./06.monocle3/m2.jpg',p2,width = 12,height = 8,dpi = 1000)
+ggsave('./06.monocle3/m2.pdf',p2,width = 12,height = 8,dpi = 1000)
