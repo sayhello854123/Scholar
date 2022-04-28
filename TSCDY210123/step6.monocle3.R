@@ -47,7 +47,8 @@ p = plot_cells(cds, label_groups_by_cluster = FALSE, label_leaves = FALSE,
 ##细胞按拟时排序
 cds <- order_cells(cds) 
 p1 <- plot_cells(cds, color_cells_by = "pseudotime", label_cell_groups = FALSE, 
-           label_leaves = FALSE,  label_branch_points = FALSE)
+           label_leaves = FALSE,  label_branch_points = FALSE,label_roots = F, 
+           show_trajectory_graph = F)
 ggsave('./06.monocle3/m1.jpg',p1,width = 8,height = 6,dpi = 1000)
 ggsave('./06.monocle3/m1.pdf',p1,width = 8,height = 6,dpi = 1000)
 
@@ -62,3 +63,10 @@ p2 <- plot_genes_in_pseudotime(cds[celltype_marker,], color_cells_by="Sample",
                          min_expr=0.5, ncol = 2)
 ggsave('./06.monocle3/m2.jpg',p2,width = 12,height = 8,dpi = 1000)
 ggsave('./06.monocle3/m2.pdf',p2,width = 12,height = 8,dpi = 1000)
+
+
+plot_cells(cds, color_cells_by = "Sample", 
+           label_groups_by_cluster = F,label_leaves = F,
+           label_branch_points = F, label_cell_groups = F,
+           trajectory_graph_color = 'grey45', label_roots = F,
+           show_trajectory_graph = F)
