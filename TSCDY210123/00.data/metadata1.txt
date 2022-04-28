@@ -1,0 +1,3 @@
+id	type
+GSM5351505	healthy
+GSM5351506	CCl4
