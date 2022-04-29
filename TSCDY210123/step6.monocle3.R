@@ -65,8 +65,18 @@ ggsave('./06.monocle3/m2.jpg',p2,width = 12,height = 8,dpi = 1000)
 ggsave('./06.monocle3/m2.pdf',p2,width = 12,height = 8,dpi = 1000)
 
 
-plot_cells(cds, color_cells_by = "Sample", 
-           label_groups_by_cluster = F,label_leaves = F,
-           label_branch_points = F, label_cell_groups = F,
-           trajectory_graph_color = 'grey45', label_roots = F,
-           show_trajectory_graph = F)
+p2 <- plot_genes_in_pseudotime(cds[celltype_marker,], color_cells_by="Sample", 
+                               min_expr=0.5, ncol = 2)
+celltype_marker=c(
+  "Gata3","Hmgb1",#项目需要的基因
+  'Atg5','Pten'#自噬
+)
+dir <- './06.monocle3/'
+for(x in celltype_marker){
+  p <- plot_genes_in_pseudotime(cds[x,], ncol = 2,
+                                color_cells_by = "Sample") +scale_color_manual(values = c("#FF3399",'#000099'))
+  file <- paste0(dir,'Pseudotime_',x,'.pdf')
+  file1 <- paste0(dir,'Pseudotime_',x,'.jpg')
+  ggsave(filename = file,plot = p,width = 8,height = 6,dpi = 1000)
+  ggsave(filename = file1,plot = p,width = 8,height = 6,dpi = 1000)
+  }
