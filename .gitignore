@@ -5,3 +5,5 @@
 *.Rdata
 *.gz
 *.txt
+*.tsv
+
