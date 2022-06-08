@@ -1,0 +1,25 @@
+,ClusterID,celltype
+1,0,T cell
+2,1,T cell
+3,2,B cell
+4,3,T cell
+5,4,T cell
+6,5,B cell
+7,6,T cell
+8,7,NK cell
+9,8,T cell
+10,9,Neutrophils
+11,10,Neutrophils
+12,11,Epithelial
+13,12,Monocyte/Macrophage
+14,13,NK cell
+15,14,T cell
+16,15,T cell
+17,16,T cell
+18,17,Fibroblast
+19,18,Proliferative
+20,19,Plasma cell
+21,20,Epithelial
+22,21,Endothelial
+23,22,mast cell
+24,23,pDC
