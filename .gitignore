@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rdata
+*.gz
+*.txt
+*.tsv
+*.gct
+*.rar
+*.mtx
+*.h5seurat
+*.h5ad
+
