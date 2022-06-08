@@ -1,0 +1,2646 @@
+,cluster,Immune,Fraction
+1,A,Activated B cell,0.027365667
+2,B,Activated B cell,0.157784071
+3,B,Activated B cell,0.159486042
+4,B,Activated B cell,0.139463193
+5,B,Activated B cell,0.14330602
+6,A,Activated B cell,0.273730788
+7,A,Activated B cell,0.376786323
+8,A,Activated B cell,0.059036856
+9,B,Activated B cell,0.523512695
+10,B,Activated B cell,0.11259703
+11,A,Activated B cell,0.022618003
+12,A,Activated B cell,0.072916343
+13,B,Activated B cell,0.221060498
+14,B,Activated B cell,0.314443607
+15,B,Activated B cell,0.102870373
+16,A,Activated B cell,0.094898102
+17,B,Activated B cell,0.202043353
+18,A,Activated B cell,0.156080258
+19,B,Activated B cell,0.113016149
+20,B,Activated B cell,0.231178694
+21,B,Activated B cell,0.275378712
+22,B,Activated B cell,0.238060303
+23,B,Activated B cell,0.194325873
+24,B,Activated B cell,0.210251681
+25,A,Activated B cell,0.147980512
+26,A,Activated B cell,0.170070007
+27,A,Activated B cell,0.202010206
+28,B,Activated B cell,0.158750867
+29,B,Activated B cell,0.420507039
+30,A,Activated B cell,0.230188037
+31,A,Activated B cell,0.128738448
+32,B,Activated B cell,0.14498247
+33,B,Activated B cell,0.233750431
+34,A,Activated B cell,0.147023007
+35,B,Activated B cell,0.185019491
+36,B,Activated B cell,0.244179881
+37,A,Activated B cell,0.21549685
+38,A,Activated B cell,0.14505115
+39,A,Activated B cell,0.182670749
+40,A,Activated B cell,0.170583429
+41,B,Activated B cell,0.229913028
+42,B,Activated B cell,0.187686327
+43,A,Activated B cell,0.10300586
+44,A,Activated B cell,0.158222597
+45,A,Activated B cell,0.161939313
+46,B,Activated B cell,0.202471744
+47,B,Activated B cell,0.355336095
+48,B,Activated B cell,0.231080449
+49,B,Activated B cell,0.215252061
+50,B,Activated B cell,0.100202827
+51,B,Activated B cell,0.284376591
+52,B,Activated B cell,0.228050199
+53,B,Activated B cell,0.162063376
+54,B,Activated B cell,0.268617576
+55,B,Activated B cell,0.120563223
+56,B,Activated B cell,0.189314584
+57,A,Activated B cell,0.14466479
+58,B,Activated B cell,0.128234636
+59,B,Activated B cell,0.171377299
+60,B,Activated B cell,0.148459553
+61,B,Activated B cell,0.172011486
+62,A,Activated B cell,0.141734803
+63,A,Activated B cell,0.171281686
+64,A,Activated B cell,0.101822911
+65,B,Activated B cell,0.175027108
+66,B,Activated B cell,0.294582513
+67,B,Activated B cell,0.277241569
+68,A,Activated B cell,0.511905853
+69,A,Activated B cell,0.231896776
+70,B,Activated B cell,0.171233119
+71,B,Activated B cell,0.196568053
+72,A,Activated B cell,0.168190202
+73,B,Activated B cell,0.198187771
+74,B,Activated B cell,0.188100011
+75,B,Activated B cell,0.125036607
+76,A,Activated B cell,0.559289939
+77,A,Activated B cell,0.386988886
+78,B,Activated B cell,0.173469141
+79,A,Activated B cell,0.088777535
+80,A,Activated B cell,0.108496415
+81,B,Activated B cell,0.232920152
+82,B,Activated B cell,0.155545854
+83,A,Activated B cell,0.195523556
+84,B,Activated B cell,0.164672459
+85,B,Activated B cell,0.126066943
+86,B,Activated B cell,0.099953492
+87,B,Activated B cell,0.119865153
+88,B,Activated B cell,0.098126998
+89,B,Activated B cell,0.099581329
+90,B,Activated B cell,0.143259198
+91,B,Activated B cell,0.257940507
+92,B,Activated B cell,0.184780679
+93,A,Activated B cell,0.035882011
+94,A,Activated B cell,0.117491097
+95,B,Activated B cell,0.319798606
+96,B,Activated B cell,0.122703162
+97,B,Activated B cell,0.17143749
+98,B,Activated B cell,0.137014772
+99,B,Activated B cell,0.236250003
+100,A,Activated B cell,0.120177612
+101,B,Activated B cell,0.141123753
+102,B,Activated B cell,0.174888743
+103,B,Activated B cell,0.098251576
+104,B,Activated B cell,0.144761478
+105,B,Activated B cell,0.065334603
+106,A,Activated B cell,0.254479669
+107,A,Activated B cell,0.213270042
+108,A,Activated B cell,0.135366034
+109,B,Activated B cell,0.11901857
+110,A,Activated B cell,0.105040364
+111,B,Activated B cell,0.230794603
+112,B,Activated B cell,0.246110518
+113,B,Activated B cell,0.122427162
+114,B,Activated B cell,0.29546447
+115,B,Activated B cell,0.161736586
+116,A,Activated CD4 T cell,0.444240528
+117,B,Activated CD4 T cell,0.449775046
+118,B,Activated CD4 T cell,0.419365287
+119,B,Activated CD4 T cell,0.502593638
+120,B,Activated CD4 T cell,0.415892023
+121,A,Activated CD4 T cell,0.488533071
+122,A,Activated CD4 T cell,0.632070886
+123,A,Activated CD4 T cell,0.541298139
+124,B,Activated CD4 T cell,0.51612874
+125,B,Activated CD4 T cell,0.386216051
+126,A,Activated CD4 T cell,0.515767259
+127,A,Activated CD4 T cell,0.422952383
+128,B,Activated CD4 T cell,0.473489176
+129,B,Activated CD4 T cell,0.558858417
+130,B,Activated CD4 T cell,0.396970509
+131,A,Activated CD4 T cell,0.474873839
+132,B,Activated CD4 T cell,0.449506175
+133,A,Activated CD4 T cell,0.533976382
+134,B,Activated CD4 T cell,0.297949486
+135,B,Activated CD4 T cell,0.405039574
+136,B,Activated CD4 T cell,0.557022009
+137,B,Activated CD4 T cell,0.525417089
+138,B,Activated CD4 T cell,0.476490004
+139,B,Activated CD4 T cell,0.397245373
+140,A,Activated CD4 T cell,0.492896418
+141,A,Activated CD4 T cell,0.493835437
+142,A,Activated CD4 T cell,0.525748938
+143,B,Activated CD4 T cell,0.466585022
+144,B,Activated CD4 T cell,0.672407866
+145,A,Activated CD4 T cell,0.629076963
+146,A,Activated CD4 T cell,0.501536988
+147,B,Activated CD4 T cell,0.400970328
+148,B,Activated CD4 T cell,0.511125743
+149,A,Activated CD4 T cell,0.554145928
+150,B,Activated CD4 T cell,0.451494611
+151,B,Activated CD4 T cell,0.566387839
+152,A,Activated CD4 T cell,0.598024363
+153,A,Activated CD4 T cell,0.55194726
+154,A,Activated CD4 T cell,0.480303517
+155,A,Activated CD4 T cell,0.538159944
+156,B,Activated CD4 T cell,0.576531277
+157,B,Activated CD4 T cell,0.409416027
+158,A,Activated CD4 T cell,0.549787016
+159,A,Activated CD4 T cell,0.552205622
+160,A,Activated CD4 T cell,0.492780911
+161,B,Activated CD4 T cell,0.524092649
+162,B,Activated CD4 T cell,0.502474652
+163,B,Activated CD4 T cell,0.436507651
+164,B,Activated CD4 T cell,0.486040246
+165,B,Activated CD4 T cell,0.464141126
+166,B,Activated CD4 T cell,0.548162576
+167,B,Activated CD4 T cell,0.575368714
+168,B,Activated CD4 T cell,0.48317572
+169,B,Activated CD4 T cell,0.428456955
+170,B,Activated CD4 T cell,0.453379882
+171,B,Activated CD4 T cell,0.363994969
+172,A,Activated CD4 T cell,0.382963856
+173,B,Activated CD4 T cell,0.559589968
+174,B,Activated CD4 T cell,0.484733801
+175,B,Activated CD4 T cell,0.547143435
+176,B,Activated CD4 T cell,0.45205922
+177,A,Activated CD4 T cell,0.481767683
+178,A,Activated CD4 T cell,0.463087219
+179,A,Activated CD4 T cell,0.430349219
+180,B,Activated CD4 T cell,0.481576713
+181,B,Activated CD4 T cell,0.493765209
+182,B,Activated CD4 T cell,0.541592238
+183,A,Activated CD4 T cell,0.715112069
+184,A,Activated CD4 T cell,0.562052028
+185,B,Activated CD4 T cell,0.272468596
+186,B,Activated CD4 T cell,0.528546644
+187,A,Activated CD4 T cell,0.471544444
+188,B,Activated CD4 T cell,0.492168745
+189,B,Activated CD4 T cell,0.513686448
+190,B,Activated CD4 T cell,0.350656961
+191,A,Activated CD4 T cell,0.62109191
+192,A,Activated CD4 T cell,0.612149632
+193,B,Activated CD4 T cell,0.449907965
+194,A,Activated CD4 T cell,0.519208419
+195,A,Activated CD4 T cell,0.480798329
+196,B,Activated CD4 T cell,0.489194417
+197,B,Activated CD4 T cell,0.435985895
+198,A,Activated CD4 T cell,0.540507215
+199,B,Activated CD4 T cell,0.425008838
+200,B,Activated CD4 T cell,0.277297306
+201,B,Activated CD4 T cell,0.379951546
+202,B,Activated CD4 T cell,0.410383149
+203,B,Activated CD4 T cell,0.461820552
+204,B,Activated CD4 T cell,0.495010046
+205,B,Activated CD4 T cell,0.438320061
+206,B,Activated CD4 T cell,0.547380784
+207,B,Activated CD4 T cell,0.521135662
+208,A,Activated CD4 T cell,0.567043084
+209,A,Activated CD4 T cell,0.564332465
+210,B,Activated CD4 T cell,0.541416753
+211,B,Activated CD4 T cell,0.532267342
+212,B,Activated CD4 T cell,0.480652077
+213,B,Activated CD4 T cell,0.468893424
+214,B,Activated CD4 T cell,0.525930717
+215,A,Activated CD4 T cell,0.501915459
+216,B,Activated CD4 T cell,0.480082923
+217,B,Activated CD4 T cell,0.46500457
+218,B,Activated CD4 T cell,0.360614318
+219,B,Activated CD4 T cell,0.359501346
+220,B,Activated CD4 T cell,0.483047318
+221,A,Activated CD4 T cell,0.555582112
+222,A,Activated CD4 T cell,0.588270669
+223,A,Activated CD4 T cell,0.523528443
+224,B,Activated CD4 T cell,0.442138081
+225,A,Activated CD4 T cell,0.498862429
+226,B,Activated CD4 T cell,0.39704893
+227,B,Activated CD4 T cell,0.5742963
+228,B,Activated CD4 T cell,0.264156955
+229,B,Activated CD4 T cell,0.636223059
+230,B,Activated CD4 T cell,0.365774761
+231,A,Activated CD8 T cell,0.470179119
+232,B,Activated CD8 T cell,0.576897334
+233,B,Activated CD8 T cell,0.511892339
+234,B,Activated CD8 T cell,0.618252438
+235,B,Activated CD8 T cell,0.565609542
+236,A,Activated CD8 T cell,0.671456938
+237,A,Activated CD8 T cell,0.777417915
+238,A,Activated CD8 T cell,0.5401295
+239,B,Activated CD8 T cell,0.444357311
+240,B,Activated CD8 T cell,0.521223309
+241,A,Activated CD8 T cell,0.47831175
+242,A,Activated CD8 T cell,0.446431456
+243,B,Activated CD8 T cell,0.556634383
+244,B,Activated CD8 T cell,0.769681704
+245,B,Activated CD8 T cell,0.541901122
+246,A,Activated CD8 T cell,0.4626033
+247,B,Activated CD8 T cell,0.520169308
+248,A,Activated CD8 T cell,0.670520562
+249,B,Activated CD8 T cell,0.508827706
+250,B,Activated CD8 T cell,0.493139284
+251,B,Activated CD8 T cell,0.703658644
+252,B,Activated CD8 T cell,0.636934399
+253,B,Activated CD8 T cell,0.550618184
+254,B,Activated CD8 T cell,0.547692416
+255,A,Activated CD8 T cell,0.566143386
+256,A,Activated CD8 T cell,0.576599883
+257,A,Activated CD8 T cell,0.673946707
+258,B,Activated CD8 T cell,0.559416518
+259,B,Activated CD8 T cell,0.861654234
+260,A,Activated CD8 T cell,0.683756925
+261,A,Activated CD8 T cell,0.583619825
+262,B,Activated CD8 T cell,0.593313773
+263,B,Activated CD8 T cell,0.598313593
+264,A,Activated CD8 T cell,0.5662675
+265,B,Activated CD8 T cell,0.596260816
+266,B,Activated CD8 T cell,0.649803401
+267,A,Activated CD8 T cell,0.553463376
+268,A,Activated CD8 T cell,0.526937815
+269,A,Activated CD8 T cell,0.569643994
+270,A,Activated CD8 T cell,0.555650679
+271,B,Activated CD8 T cell,0.647583511
+272,B,Activated CD8 T cell,0.603542204
+273,A,Activated CD8 T cell,0.541553331
+274,A,Activated CD8 T cell,0.590214806
+275,A,Activated CD8 T cell,0.498863537
+276,B,Activated CD8 T cell,0.616900891
+277,B,Activated CD8 T cell,0.666621565
+278,B,Activated CD8 T cell,0.651649705
+279,B,Activated CD8 T cell,0.637717234
+280,B,Activated CD8 T cell,0.538504677
+281,B,Activated CD8 T cell,0.642872848
+282,B,Activated CD8 T cell,0.611796672
+283,B,Activated CD8 T cell,0.595776234
+284,B,Activated CD8 T cell,0.674012568
+285,B,Activated CD8 T cell,0.509339634
+286,B,Activated CD8 T cell,0.632562024
+287,A,Activated CD8 T cell,0.552819099
+288,B,Activated CD8 T cell,0.617079122
+289,B,Activated CD8 T cell,0.569434137
+290,B,Activated CD8 T cell,0.599929053
+291,B,Activated CD8 T cell,0.603364754
+292,A,Activated CD8 T cell,0.543430653
+293,A,Activated CD8 T cell,0.520736862
+294,A,Activated CD8 T cell,0.505786954
+295,B,Activated CD8 T cell,0.607525946
+296,B,Activated CD8 T cell,0.65108948
+297,B,Activated CD8 T cell,0.650851319
+298,A,Activated CD8 T cell,0.874926126
+299,A,Activated CD8 T cell,0.623295832
+300,B,Activated CD8 T cell,0.554605986
+301,B,Activated CD8 T cell,0.605904618
+302,A,Activated CD8 T cell,0.526957127
+303,B,Activated CD8 T cell,0.648605356
+304,B,Activated CD8 T cell,0.674089583
+305,B,Activated CD8 T cell,0.553752603
+306,A,Activated CD8 T cell,0.83635937
+307,A,Activated CD8 T cell,0.807485157
+308,B,Activated CD8 T cell,0.535779711
+309,A,Activated CD8 T cell,0.582138842
+310,A,Activated CD8 T cell,0.533609752
+311,B,Activated CD8 T cell,0.679570716
+312,B,Activated CD8 T cell,0.559365965
+313,A,Activated CD8 T cell,0.601594514
+314,B,Activated CD8 T cell,0.517825279
+315,B,Activated CD8 T cell,0.515480711
+316,B,Activated CD8 T cell,0.521947809
+317,B,Activated CD8 T cell,0.520550622
+318,B,Activated CD8 T cell,0.493502137
+319,B,Activated CD8 T cell,0.514945677
+320,B,Activated CD8 T cell,0.520998496
+321,B,Activated CD8 T cell,0.695323131
+322,B,Activated CD8 T cell,0.578557811
+323,A,Activated CD8 T cell,0.474976306
+324,A,Activated CD8 T cell,0.505207432
+325,B,Activated CD8 T cell,0.740836947
+326,B,Activated CD8 T cell,0.572534936
+327,B,Activated CD8 T cell,0.659587323
+328,B,Activated CD8 T cell,0.574660068
+329,B,Activated CD8 T cell,0.667267813
+330,A,Activated CD8 T cell,0.527673044
+331,B,Activated CD8 T cell,0.557629715
+332,B,Activated CD8 T cell,0.525184684
+333,B,Activated CD8 T cell,0.470038517
+334,B,Activated CD8 T cell,0.50526994
+335,B,Activated CD8 T cell,0.437540097
+336,A,Activated CD8 T cell,0.716296283
+337,A,Activated CD8 T cell,0.61536738
+338,A,Activated CD8 T cell,0.640897918
+339,B,Activated CD8 T cell,0.568454875
+340,A,Activated CD8 T cell,0.489697681
+341,B,Activated CD8 T cell,0.633292277
+342,B,Activated CD8 T cell,0.653342415
+343,B,Activated CD8 T cell,0.492750713
+344,B,Activated CD8 T cell,0.761534386
+345,B,Activated CD8 T cell,0.514732542
+346,A,Activated dendritic cell,0.544753756
+347,B,Activated dendritic cell,0.608746575
+348,B,Activated dendritic cell,0.608047714
+349,B,Activated dendritic cell,0.651365165
+350,B,Activated dendritic cell,0.55752797
+351,A,Activated dendritic cell,0.596853503
+352,A,Activated dendritic cell,0.734408022
+353,A,Activated dendritic cell,0.617243709
+354,B,Activated dendritic cell,0.534740021
+355,B,Activated dendritic cell,0.565542521
+356,A,Activated dendritic cell,0.557406031
+357,A,Activated dendritic cell,0.558180459
+358,B,Activated dendritic cell,0.614335988
+359,B,Activated dendritic cell,0.654845017
+360,B,Activated dendritic cell,0.631209585
+361,A,Activated dendritic cell,0.562038448
+362,B,Activated dendritic cell,0.611123688
+363,A,Activated dendritic cell,0.613063277
+364,B,Activated dendritic cell,0.550792059
+365,B,Activated dendritic cell,0.601056012
+366,B,Activated dendritic cell,0.69911665
+367,B,Activated dendritic cell,0.61146161
+368,B,Activated dendritic cell,0.650829785
+369,B,Activated dendritic cell,0.586317788
+370,A,Activated dendritic cell,0.547796346
+371,A,Activated dendritic cell,0.611349429
+372,A,Activated dendritic cell,0.651816805
+373,B,Activated dendritic cell,0.581209283
+374,B,Activated dendritic cell,0.699866585
+375,A,Activated dendritic cell,0.631929652
+376,A,Activated dendritic cell,0.599205046
+377,B,Activated dendritic cell,0.589579964
+378,B,Activated dendritic cell,0.632109644
+379,A,Activated dendritic cell,0.640169763
+380,B,Activated dendritic cell,0.604150539
+381,B,Activated dendritic cell,0.61697524
+382,A,Activated dendritic cell,0.690397605
+383,A,Activated dendritic cell,0.611546707
+384,A,Activated dendritic cell,0.57617671
+385,A,Activated dendritic cell,0.621130173
+386,B,Activated dendritic cell,0.666012079
+387,B,Activated dendritic cell,0.581160532
+388,A,Activated dendritic cell,0.597272344
+389,A,Activated dendritic cell,0.635730538
+390,A,Activated dendritic cell,0.582891485
+391,B,Activated dendritic cell,0.63798864
+392,B,Activated dendritic cell,0.629904679
+393,B,Activated dendritic cell,0.636868638
+394,B,Activated dendritic cell,0.631523163
+395,B,Activated dendritic cell,0.59694389
+396,B,Activated dendritic cell,0.612905958
+397,B,Activated dendritic cell,0.622125493
+398,B,Activated dendritic cell,0.637211138
+399,B,Activated dendritic cell,0.616140692
+400,B,Activated dendritic cell,0.589226488
+401,B,Activated dendritic cell,0.596529716
+402,A,Activated dendritic cell,0.525465513
+403,B,Activated dendritic cell,0.640543258
+404,B,Activated dendritic cell,0.578064197
+405,B,Activated dendritic cell,0.560388652
+406,B,Activated dendritic cell,0.616377584
+407,A,Activated dendritic cell,0.578564706
+408,A,Activated dendritic cell,0.583965693
+409,A,Activated dendritic cell,0.570235216
+410,B,Activated dendritic cell,0.62180379
+411,B,Activated dendritic cell,0.631474498
+412,B,Activated dendritic cell,0.680205763
+413,A,Activated dendritic cell,0.677457616
+414,A,Activated dendritic cell,0.633012408
+415,B,Activated dendritic cell,0.582886951
+416,B,Activated dendritic cell,0.625927657
+417,A,Activated dendritic cell,0.567639969
+418,B,Activated dendritic cell,0.593027596
+419,B,Activated dendritic cell,0.612480549
+420,B,Activated dendritic cell,0.582823633
+421,A,Activated dendritic cell,0.657538075
+422,A,Activated dendritic cell,0.687586552
+423,B,Activated dendritic cell,0.630058252
+424,A,Activated dendritic cell,0.61470961
+425,A,Activated dendritic cell,0.626562443
+426,B,Activated dendritic cell,0.59927357
+427,B,Activated dendritic cell,0.631338038
+428,A,Activated dendritic cell,0.622368838
+429,B,Activated dendritic cell,0.607955576
+430,B,Activated dendritic cell,0.569190601
+431,B,Activated dendritic cell,0.559894099
+432,B,Activated dendritic cell,0.575708863
+433,B,Activated dendritic cell,0.579721639
+434,B,Activated dendritic cell,0.63020168
+435,B,Activated dendritic cell,0.545794256
+436,B,Activated dendritic cell,0.639235901
+437,B,Activated dendritic cell,0.601915288
+438,A,Activated dendritic cell,0.578728253
+439,A,Activated dendritic cell,0.627861543
+440,B,Activated dendritic cell,0.636789388
+441,B,Activated dendritic cell,0.581490794
+442,B,Activated dendritic cell,0.627266752
+443,B,Activated dendritic cell,0.555381114
+444,B,Activated dendritic cell,0.614124738
+445,A,Activated dendritic cell,0.561356705
+446,B,Activated dendritic cell,0.598016824
+447,B,Activated dendritic cell,0.624143634
+448,B,Activated dendritic cell,0.579718387
+449,B,Activated dendritic cell,0.631742711
+450,B,Activated dendritic cell,0.556619729
+451,A,Activated dendritic cell,0.674599557
+452,A,Activated dendritic cell,0.590873948
+453,A,Activated dendritic cell,0.604911414
+454,B,Activated dendritic cell,0.63258569
+455,A,Activated dendritic cell,0.588997755
+456,B,Activated dendritic cell,0.648791541
+457,B,Activated dendritic cell,0.64709833
+458,B,Activated dendritic cell,0.555818522
+459,B,Activated dendritic cell,0.727122871
+460,B,Activated dendritic cell,0.617671683
+461,A,CD56bright tural killer cell,0.640816712
+462,B,CD56bright tural killer cell,0.587189676
+463,B,CD56bright tural killer cell,0.597874212
+464,B,CD56bright tural killer cell,0.6066787
+465,B,CD56bright tural killer cell,0.600477002
+466,A,CD56bright tural killer cell,0.599728425
+467,A,CD56bright tural killer cell,0.608650847
+468,A,CD56bright tural killer cell,0.618840957
+469,B,CD56bright tural killer cell,0.598849947
+470,B,CD56bright tural killer cell,0.626488224
+471,A,CD56bright tural killer cell,0.609325159
+472,A,CD56bright tural killer cell,0.638065137
+473,B,CD56bright tural killer cell,0.608335206
+474,B,CD56bright tural killer cell,0.620542219
+475,B,CD56bright tural killer cell,0.608937852
+476,A,CD56bright tural killer cell,0.600018833
+477,B,CD56bright tural killer cell,0.615328388
+478,A,CD56bright tural killer cell,0.604627797
+479,B,CD56bright tural killer cell,0.60712447
+480,B,CD56bright tural killer cell,0.609666272
+481,B,CD56bright tural killer cell,0.611508008
+482,B,CD56bright tural killer cell,0.64214518
+483,B,CD56bright tural killer cell,0.582093883
+484,B,CD56bright tural killer cell,0.597148118
+485,A,CD56bright tural killer cell,0.626523477
+486,A,CD56bright tural killer cell,0.651627623
+487,A,CD56bright tural killer cell,0.584292001
+488,B,CD56bright tural killer cell,0.588558876
+489,B,CD56bright tural killer cell,0.672982124
+490,A,CD56bright tural killer cell,0.618651858
+491,A,CD56bright tural killer cell,0.635972577
+492,B,CD56bright tural killer cell,0.653933065
+493,B,CD56bright tural killer cell,0.624224482
+494,A,CD56bright tural killer cell,0.624318031
+495,B,CD56bright tural killer cell,0.618699113
+496,B,CD56bright tural killer cell,0.624301472
+497,A,CD56bright tural killer cell,0.613369901
+498,A,CD56bright tural killer cell,0.628443467
+499,A,CD56bright tural killer cell,0.555427986
+500,A,CD56bright tural killer cell,0.567033009
+501,B,CD56bright tural killer cell,0.63581245
+502,B,CD56bright tural killer cell,0.576956271
+503,A,CD56bright tural killer cell,0.654192005
+504,A,CD56bright tural killer cell,0.642610096
+505,A,CD56bright tural killer cell,0.631296316
+506,B,CD56bright tural killer cell,0.605120747
+507,B,CD56bright tural killer cell,0.619185277
+508,B,CD56bright tural killer cell,0.635309203
+509,B,CD56bright tural killer cell,0.589470112
+510,B,CD56bright tural killer cell,0.603212164
+511,B,CD56bright tural killer cell,0.603046733
+512,B,CD56bright tural killer cell,0.618526435
+513,B,CD56bright tural killer cell,0.615001359
+514,B,CD56bright tural killer cell,0.588625417
+515,B,CD56bright tural killer cell,0.61670628
+516,B,CD56bright tural killer cell,0.607084111
+517,A,CD56bright tural killer cell,0.602378194
+518,B,CD56bright tural killer cell,0.628306739
+519,B,CD56bright tural killer cell,0.615113697
+520,B,CD56bright tural killer cell,0.584796239
+521,B,CD56bright tural killer cell,0.619291531
+522,A,CD56bright tural killer cell,0.599878995
+523,A,CD56bright tural killer cell,0.556245642
+524,A,CD56bright tural killer cell,0.629170397
+525,B,CD56bright tural killer cell,0.598766705
+526,B,CD56bright tural killer cell,0.626431194
+527,B,CD56bright tural killer cell,0.619806865
+528,A,CD56bright tural killer cell,0.598931037
+529,A,CD56bright tural killer cell,0.613547359
+530,B,CD56bright tural killer cell,0.625070261
+531,B,CD56bright tural killer cell,0.591664591
+532,A,CD56bright tural killer cell,0.643604081
+533,B,CD56bright tural killer cell,0.609043971
+534,B,CD56bright tural killer cell,0.62711147
+535,B,CD56bright tural killer cell,0.6241935
+536,A,CD56bright tural killer cell,0.626127853
+537,A,CD56bright tural killer cell,0.609839539
+538,B,CD56bright tural killer cell,0.606074966
+539,A,CD56bright tural killer cell,0.653320638
+540,A,CD56bright tural killer cell,0.633132097
+541,B,CD56bright tural killer cell,0.612896034
+542,B,CD56bright tural killer cell,0.615218827
+543,A,CD56bright tural killer cell,0.624614392
+544,B,CD56bright tural killer cell,0.624567362
+545,B,CD56bright tural killer cell,0.612271816
+546,B,CD56bright tural killer cell,0.611809526
+547,B,CD56bright tural killer cell,0.571605459
+548,B,CD56bright tural killer cell,0.603411647
+549,B,CD56bright tural killer cell,0.653288293
+550,B,CD56bright tural killer cell,0.619205534
+551,B,CD56bright tural killer cell,0.654111781
+552,B,CD56bright tural killer cell,0.613025755
+553,A,CD56bright tural killer cell,0.630734626
+554,A,CD56bright tural killer cell,0.625220138
+555,B,CD56bright tural killer cell,0.598426224
+556,B,CD56bright tural killer cell,0.646964921
+557,B,CD56bright tural killer cell,0.626561441
+558,B,CD56bright tural killer cell,0.618819945
+559,B,CD56bright tural killer cell,0.609315116
+560,A,CD56bright tural killer cell,0.653298588
+561,B,CD56bright tural killer cell,0.599135014
+562,B,CD56bright tural killer cell,0.606499658
+563,B,CD56bright tural killer cell,0.59708826
+564,B,CD56bright tural killer cell,0.618363206
+565,B,CD56bright tural killer cell,0.596550626
+566,A,CD56bright tural killer cell,0.614939692
+567,A,CD56bright tural killer cell,0.635542142
+568,A,CD56bright tural killer cell,0.614528424
+569,B,CD56bright tural killer cell,0.622844983
+570,A,CD56bright tural killer cell,0.59180247
+571,B,CD56bright tural killer cell,0.639507271
+572,B,CD56bright tural killer cell,0.634393774
+573,B,CD56bright tural killer cell,0.623172927
+574,B,CD56bright tural killer cell,0.663898827
+575,B,CD56bright tural killer cell,0.616784887
+576,A,CD56dim tural killer cell,0.695273627
+577,B,CD56dim tural killer cell,0.701112311
+578,B,CD56dim tural killer cell,0.738768911
+579,B,CD56dim tural killer cell,0.715975729
+580,B,CD56dim tural killer cell,0.674402776
+581,A,CD56dim tural killer cell,0.642230638
+582,A,CD56dim tural killer cell,0.737502718
+583,A,CD56dim tural killer cell,0.758235317
+584,B,CD56dim tural killer cell,0.359446976
+585,B,CD56dim tural killer cell,0.704708134
+586,A,CD56dim tural killer cell,0.716691201
+587,A,CD56dim tural killer cell,0.702988058
+588,B,CD56dim tural killer cell,0.743291781
+589,B,CD56dim tural killer cell,0.712247121
+590,B,CD56dim tural killer cell,0.749731721
+591,A,CD56dim tural killer cell,0.72046281
+592,B,CD56dim tural killer cell,0.744040467
+593,A,CD56dim tural killer cell,0.626944485
+594,B,CD56dim tural killer cell,0.698111174
+595,B,CD56dim tural killer cell,0.765182681
+596,B,CD56dim tural killer cell,0.714553131
+597,B,CD56dim tural killer cell,0.694447513
+598,B,CD56dim tural killer cell,0.762170548
+599,B,CD56dim tural killer cell,0.678816548
+600,A,CD56dim tural killer cell,0.707152884
+601,A,CD56dim tural killer cell,0.749463553
+602,A,CD56dim tural killer cell,0.749763283
+603,B,CD56dim tural killer cell,0.715750917
+604,B,CD56dim tural killer cell,0.716440298
+605,A,CD56dim tural killer cell,0.722949725
+606,A,CD56dim tural killer cell,0.729513825
+607,B,CD56dim tural killer cell,0.750129503
+608,B,CD56dim tural killer cell,0.717456894
+609,A,CD56dim tural killer cell,0.738836681
+610,B,CD56dim tural killer cell,0.666323174
+611,B,CD56dim tural killer cell,0.682737161
+612,A,CD56dim tural killer cell,0.747261191
+613,A,CD56dim tural killer cell,0.695038481
+614,A,CD56dim tural killer cell,0.718491298
+615,A,CD56dim tural killer cell,0.699799876
+616,B,CD56dim tural killer cell,0.77141111
+617,B,CD56dim tural killer cell,0.722279079
+618,A,CD56dim tural killer cell,0.73825849
+619,A,CD56dim tural killer cell,0.737836143
+620,A,CD56dim tural killer cell,0.719829687
+621,B,CD56dim tural killer cell,0.74223789
+622,B,CD56dim tural killer cell,0.704062491
+623,B,CD56dim tural killer cell,0.736475106
+624,B,CD56dim tural killer cell,0.719258335
+625,B,CD56dim tural killer cell,0.732479971
+626,B,CD56dim tural killer cell,0.72116766
+627,B,CD56dim tural killer cell,0.696874481
+628,B,CD56dim tural killer cell,0.710398006
+629,B,CD56dim tural killer cell,0.699033618
+630,B,CD56dim tural killer cell,0.762596431
+631,B,CD56dim tural killer cell,0.722606754
+632,A,CD56dim tural killer cell,0.71237862
+633,B,CD56dim tural killer cell,0.732607797
+634,B,CD56dim tural killer cell,0.743795903
+635,B,CD56dim tural killer cell,0.702523001
+636,B,CD56dim tural killer cell,0.733207335
+637,A,CD56dim tural killer cell,0.700995738
+638,A,CD56dim tural killer cell,0.694941614
+639,A,CD56dim tural killer cell,0.758336518
+640,B,CD56dim tural killer cell,0.709189682
+641,B,CD56dim tural killer cell,0.704972781
+642,B,CD56dim tural killer cell,0.6343881
+643,A,CD56dim tural killer cell,0.670338044
+644,A,CD56dim tural killer cell,0.778803618
+645,B,CD56dim tural killer cell,0.69947146
+646,B,CD56dim tural killer cell,0.718769327
+647,A,CD56dim tural killer cell,0.714356606
+648,B,CD56dim tural killer cell,0.729489225
+649,B,CD56dim tural killer cell,0.693455343
+650,B,CD56dim tural killer cell,0.710610866
+651,A,CD56dim tural killer cell,0.70346734
+652,A,CD56dim tural killer cell,0.723463278
+653,B,CD56dim tural killer cell,0.773378917
+654,A,CD56dim tural killer cell,0.694404912
+655,A,CD56dim tural killer cell,0.706852666
+656,B,CD56dim tural killer cell,0.735356889
+657,B,CD56dim tural killer cell,0.760873692
+658,A,CD56dim tural killer cell,0.742376638
+659,B,CD56dim tural killer cell,0.699426511
+660,B,CD56dim tural killer cell,0.685846278
+661,B,CD56dim tural killer cell,0.687955755
+662,B,CD56dim tural killer cell,0.680135763
+663,B,CD56dim tural killer cell,0.733276782
+664,B,CD56dim tural killer cell,0.692623822
+665,B,CD56dim tural killer cell,0.729535867
+666,B,CD56dim tural killer cell,0.720658358
+667,B,CD56dim tural killer cell,0.744894991
+668,A,CD56dim tural killer cell,0.716669556
+669,A,CD56dim tural killer cell,0.75102397
+670,B,CD56dim tural killer cell,0.741417475
+671,B,CD56dim tural killer cell,0.736172029
+672,B,CD56dim tural killer cell,0.67955669
+673,B,CD56dim tural killer cell,0.698553752
+674,B,CD56dim tural killer cell,0.739503109
+675,A,CD56dim tural killer cell,0.718936278
+676,B,CD56dim tural killer cell,0.68070564
+677,B,CD56dim tural killer cell,0.731530962
+678,B,CD56dim tural killer cell,0.700993276
+679,B,CD56dim tural killer cell,0.736723359
+680,B,CD56dim tural killer cell,0.626674429
+681,A,CD56dim tural killer cell,0.691149273
+682,A,CD56dim tural killer cell,0.721748964
+683,A,CD56dim tural killer cell,0.683737531
+684,B,CD56dim tural killer cell,0.688069482
+685,A,CD56dim tural killer cell,0.699992862
+686,B,CD56dim tural killer cell,0.728323559
+687,B,CD56dim tural killer cell,0.767678076
+688,B,CD56dim tural killer cell,0.709487837
+689,B,CD56dim tural killer cell,0.712059645
+690,B,CD56dim tural killer cell,0.68406476
+691,A,Eosinophil,0.282647986
+692,B,Eosinophil,0.268694362
+693,B,Eosinophil,0.36002519
+694,B,Eosinophil,0.344283301
+695,B,Eosinophil,0.280031919
+696,A,Eosinophil,0.283067791
+697,A,Eosinophil,0.315864057
+698,A,Eosinophil,0.239467781
+699,B,Eosinophil,0.442228049
+700,B,Eosinophil,0.262181108
+701,A,Eosinophil,0.198978914
+702,A,Eosinophil,0.236959386
+703,B,Eosinophil,0.341470023
+704,B,Eosinophil,0.297694716
+705,B,Eosinophil,0.381105963
+706,A,Eosinophil,0.234142417
+707,B,Eosinophil,0.388327884
+708,A,Eosinophil,0.196478555
+709,B,Eosinophil,0.327021258
+710,B,Eosinophil,0.353697519
+711,B,Eosinophil,0.311215151
+712,B,Eosinophil,0.301179911
+713,B,Eosinophil,0.457657957
+714,B,Eosinophil,0.193634797
+715,A,Eosinophil,0.227225818
+716,A,Eosinophil,0.262544284
+717,A,Eosinophil,0.318340425
+718,B,Eosinophil,0.305824993
+719,B,Eosinophil,0.309723281
+720,A,Eosinophil,0.251812771
+721,A,Eosinophil,0.356907486
+722,B,Eosinophil,0.238270399
+723,B,Eosinophil,0.281188765
+724,A,Eosinophil,0.31847617
+725,B,Eosinophil,0.293975669
+726,B,Eosinophil,0.266686461
+727,A,Eosinophil,0.373368568
+728,A,Eosinophil,0.234867124
+729,A,Eosinophil,0.301809007
+730,A,Eosinophil,0.281715933
+731,B,Eosinophil,0.251701147
+732,B,Eosinophil,0.32686386
+733,A,Eosinophil,0.302656473
+734,A,Eosinophil,0.406325001
+735,A,Eosinophil,0.218123107
+736,B,Eosinophil,0.34215058
+737,B,Eosinophil,0.395632899
+738,B,Eosinophil,0.388712946
+739,B,Eosinophil,0.256072967
+740,B,Eosinophil,0.257239797
+741,B,Eosinophil,0.189299544
+742,B,Eosinophil,0.320749393
+743,B,Eosinophil,0.416299724
+744,B,Eosinophil,0.366161236
+745,B,Eosinophil,0.338217469
+746,B,Eosinophil,0.286258457
+747,A,Eosinophil,0.303356092
+748,B,Eosinophil,0.339072898
+749,B,Eosinophil,0.283880962
+750,B,Eosinophil,0.307282914
+751,B,Eosinophil,0.218342173
+752,A,Eosinophil,0.248189807
+753,A,Eosinophil,0.162145577
+754,A,Eosinophil,0.243745309
+755,B,Eosinophil,0.340441867
+756,B,Eosinophil,0.415787789
+757,B,Eosinophil,0.228664273
+758,A,Eosinophil,0.316703609
+759,A,Eosinophil,0.248120661
+760,B,Eosinophil,0.246738604
+761,B,Eosinophil,0.369288348
+762,A,Eosinophil,0.137083708
+763,B,Eosinophil,0.270241334
+764,B,Eosinophil,0.290181415
+765,B,Eosinophil,0.249808541
+766,A,Eosinophil,0.227726289
+767,A,Eosinophil,0.232211273
+768,B,Eosinophil,0.388211704
+769,A,Eosinophil,0.229897391
+770,A,Eosinophil,0.255476244
+771,B,Eosinophil,0.400880454
+772,B,Eosinophil,0.322607894
+773,A,Eosinophil,0.275314988
+774,B,Eosinophil,0.325280027
+775,B,Eosinophil,0.282191617
+776,B,Eosinophil,0.247331909
+777,B,Eosinophil,0.256712526
+778,B,Eosinophil,0.197135435
+779,B,Eosinophil,0.207107989
+780,B,Eosinophil,0.204913733
+781,B,Eosinophil,0.38917652
+782,B,Eosinophil,0.269314646
+783,A,Eosinophil,0.216494491
+784,A,Eosinophil,0.273927767
+785,B,Eosinophil,0.343465743
+786,B,Eosinophil,0.197438847
+787,B,Eosinophil,0.241410971
+788,B,Eosinophil,0.224718421
+789,B,Eosinophil,0.32686477
+790,A,Eosinophil,0.246989506
+791,B,Eosinophil,0.267934806
+792,B,Eosinophil,0.337079938
+793,B,Eosinophil,0.240198996
+794,B,Eosinophil,0.342887118
+795,B,Eosinophil,0.211348175
+796,A,Eosinophil,0.216426876
+797,A,Eosinophil,0.261112482
+798,A,Eosinophil,0.217422048
+799,B,Eosinophil,0.278869848
+800,A,Eosinophil,0.238642758
+801,B,Eosinophil,0.300551612
+802,B,Eosinophil,0.306396897
+803,B,Eosinophil,0.299848935
+804,B,Eosinophil,0.350794525
+805,B,Eosinophil,0.231214176
+806,A,Gamma delta T cell,0.572791477
+807,B,Gamma delta T cell,0.640775972
+808,B,Gamma delta T cell,0.630540328
+809,B,Gamma delta T cell,0.653019161
+810,B,Gamma delta T cell,0.67986372
+811,A,Gamma delta T cell,0.706095305
+812,A,Gamma delta T cell,0.730690313
+813,A,Gamma delta T cell,0.632851454
+814,B,Gamma delta T cell,0.535586463
+815,B,Gamma delta T cell,0.66049272
+816,A,Gamma delta T cell,0.633879984
+817,A,Gamma delta T cell,0.576795805
+818,B,Gamma delta T cell,0.644366759
+819,B,Gamma delta T cell,0.661363834
+820,B,Gamma delta T cell,0.731063173
+821,A,Gamma delta T cell,0.614209115
+822,B,Gamma delta T cell,0.669720532
+823,A,Gamma delta T cell,0.678770768
+824,B,Gamma delta T cell,0.675220847
+825,B,Gamma delta T cell,0.61538834
+826,B,Gamma delta T cell,0.716747626
+827,B,Gamma delta T cell,0.649733326
+828,B,Gamma delta T cell,0.617019402
+829,B,Gamma delta T cell,0.609568039
+830,A,Gamma delta T cell,0.595761858
+831,A,Gamma delta T cell,0.635140896
+832,A,Gamma delta T cell,0.656094751
+833,B,Gamma delta T cell,0.64556785
+834,B,Gamma delta T cell,0.704118199
+835,A,Gamma delta T cell,0.63812489
+836,A,Gamma delta T cell,0.635515193
+837,B,Gamma delta T cell,0.611149964
+838,B,Gamma delta T cell,0.670056094
+839,A,Gamma delta T cell,0.683026365
+840,B,Gamma delta T cell,0.726124573
+841,B,Gamma delta T cell,0.666075191
+842,A,Gamma delta T cell,0.683017605
+843,A,Gamma delta T cell,0.5930441
+844,A,Gamma delta T cell,0.620588408
+845,A,Gamma delta T cell,0.631030671
+846,B,Gamma delta T cell,0.652002192
+847,B,Gamma delta T cell,0.690898194
+848,A,Gamma delta T cell,0.645876177
+849,A,Gamma delta T cell,0.651847939
+850,A,Gamma delta T cell,0.634210969
+851,B,Gamma delta T cell,0.659581852
+852,B,Gamma delta T cell,0.701115996
+853,B,Gamma delta T cell,0.699061586
+854,B,Gamma delta T cell,0.598944252
+855,B,Gamma delta T cell,0.613633455
+856,B,Gamma delta T cell,0.644308788
+857,B,Gamma delta T cell,0.64499959
+858,B,Gamma delta T cell,0.691375654
+859,B,Gamma delta T cell,0.628350343
+860,B,Gamma delta T cell,0.634688291
+861,B,Gamma delta T cell,0.710147746
+862,A,Gamma delta T cell,0.626920258
+863,B,Gamma delta T cell,0.639713036
+864,B,Gamma delta T cell,0.692658615
+865,B,Gamma delta T cell,0.704606083
+866,B,Gamma delta T cell,0.676755271
+867,A,Gamma delta T cell,0.642026388
+868,A,Gamma delta T cell,0.646504454
+869,A,Gamma delta T cell,0.641275505
+870,B,Gamma delta T cell,0.642479145
+871,B,Gamma delta T cell,0.67346286
+872,B,Gamma delta T cell,0.683534933
+873,A,Gamma delta T cell,0.697395725
+874,A,Gamma delta T cell,0.662130643
+875,B,Gamma delta T cell,0.653091823
+876,B,Gamma delta T cell,0.658745518
+877,A,Gamma delta T cell,0.652404189
+878,B,Gamma delta T cell,0.610564372
+879,B,Gamma delta T cell,0.624181918
+880,B,Gamma delta T cell,0.613894964
+881,A,Gamma delta T cell,0.672432334
+882,A,Gamma delta T cell,0.675870479
+883,B,Gamma delta T cell,0.621129337
+884,A,Gamma delta T cell,0.69421284
+885,A,Gamma delta T cell,0.677373368
+886,B,Gamma delta T cell,0.646089511
+887,B,Gamma delta T cell,0.637403517
+888,A,Gamma delta T cell,0.651967729
+889,B,Gamma delta T cell,0.62639099
+890,B,Gamma delta T cell,0.666179834
+891,B,Gamma delta T cell,0.624515329
+892,B,Gamma delta T cell,0.624968534
+893,B,Gamma delta T cell,0.682938258
+894,B,Gamma delta T cell,0.659563705
+895,B,Gamma delta T cell,0.611210639
+896,B,Gamma delta T cell,0.658397587
+897,B,Gamma delta T cell,0.63559483
+898,A,Gamma delta T cell,0.668479177
+899,A,Gamma delta T cell,0.683075847
+900,B,Gamma delta T cell,0.666035554
+901,B,Gamma delta T cell,0.664275489
+902,B,Gamma delta T cell,0.686180028
+903,B,Gamma delta T cell,0.692106937
+904,B,Gamma delta T cell,0.647287952
+905,A,Gamma delta T cell,0.648381934
+906,B,Gamma delta T cell,0.69565864
+907,B,Gamma delta T cell,0.619981444
+908,B,Gamma delta T cell,0.665510121
+909,B,Gamma delta T cell,0.634305322
+910,B,Gamma delta T cell,0.658733241
+911,A,Gamma delta T cell,0.655794337
+912,A,Gamma delta T cell,0.654605032
+913,A,Gamma delta T cell,0.658775565
+914,B,Gamma delta T cell,0.663018232
+915,A,Gamma delta T cell,0.671635765
+916,B,Gamma delta T cell,0.65785069
+917,B,Gamma delta T cell,0.674278303
+918,B,Gamma delta T cell,0.673559788
+919,B,Gamma delta T cell,0.773370668
+920,B,Gamma delta T cell,0.631948171
+921,A,Immature B cell,0.236385283
+922,B,Immature B cell,0.355690567
+923,B,Immature B cell,0.320070329
+924,B,Immature B cell,0.428520505
+925,B,Immature B cell,0.299482669
+926,A,Immature B cell,0.395666884
+927,A,Immature B cell,0.466180252
+928,A,Immature B cell,0.290412924
+929,B,Immature B cell,0.588766236
+930,B,Immature B cell,0.316060081
+931,A,Immature B cell,0.250469029
+932,A,Immature B cell,0.256109745
+933,B,Immature B cell,0.309260894
+934,B,Immature B cell,0.336479157
+935,B,Immature B cell,0.313999106
+936,A,Immature B cell,0.277000701
+937,B,Immature B cell,0.276609314
+938,A,Immature B cell,0.30890248
+939,B,Immature B cell,0.330569049
+940,B,Immature B cell,0.282850013
+941,B,Immature B cell,0.428413194
+942,B,Immature B cell,0.315691567
+943,B,Immature B cell,0.394248264
+944,B,Immature B cell,0.31405441
+945,A,Immature B cell,0.226119975
+946,A,Immature B cell,0.306901407
+947,A,Immature B cell,0.381070438
+948,B,Immature B cell,0.324937322
+949,B,Immature B cell,0.46769819
+950,A,Immature B cell,0.347683042
+951,A,Immature B cell,0.284767029
+952,B,Immature B cell,0.292068435
+953,B,Immature B cell,0.331908386
+954,A,Immature B cell,0.349200074
+955,B,Immature B cell,0.337883837
+956,B,Immature B cell,0.311277492
+957,A,Immature B cell,0.381583974
+958,A,Immature B cell,0.348268607
+959,A,Immature B cell,0.242707114
+960,A,Immature B cell,0.373177633
+961,B,Immature B cell,0.373588062
+962,B,Immature B cell,0.34416941
+963,A,Immature B cell,0.255264141
+964,A,Immature B cell,0.328956729
+965,A,Immature B cell,0.299147371
+966,B,Immature B cell,0.385840795
+967,B,Immature B cell,0.449472106
+968,B,Immature B cell,0.411849763
+969,B,Immature B cell,0.278347162
+970,B,Immature B cell,0.316717196
+971,B,Immature B cell,0.365101565
+972,B,Immature B cell,0.335510568
+973,B,Immature B cell,0.364557772
+974,B,Immature B cell,0.359402674
+975,B,Immature B cell,0.292468286
+976,B,Immature B cell,0.34269809
+977,A,Immature B cell,0.264848155
+978,B,Immature B cell,0.334771641
+979,B,Immature B cell,0.378301581
+980,B,Immature B cell,0.345723074
+981,B,Immature B cell,0.346768099
+982,A,Immature B cell,0.283067955
+983,A,Immature B cell,0.264911722
+984,A,Immature B cell,0.278948525
+985,B,Immature B cell,0.335318651
+986,B,Immature B cell,0.452967602
+987,B,Immature B cell,0.408548786
+988,A,Immature B cell,0.526865458
+989,A,Immature B cell,0.343741371
+990,B,Immature B cell,0.307248006
+991,B,Immature B cell,0.353781923
+992,A,Immature B cell,0.274882234
+993,B,Immature B cell,0.25323713
+994,B,Immature B cell,0.305916968
+995,B,Immature B cell,0.263357003
+996,A,Immature B cell,0.491074777
+997,A,Immature B cell,0.466688982
+998,B,Immature B cell,0.285973242
+999,A,Immature B cell,0.292582862
+1000,A,Immature B cell,0.325307879
+1001,B,Immature B cell,0.346834054
+1002,B,Immature B cell,0.315170655
+1003,A,Immature B cell,0.322066172
+1004,B,Immature B cell,0.266590541
+1005,B,Immature B cell,0.310018758
+1006,B,Immature B cell,0.291430465
+1007,B,Immature B cell,0.334500594
+1008,B,Immature B cell,0.286133013
+1009,B,Immature B cell,0.301992511
+1010,B,Immature B cell,0.242860764
+1011,B,Immature B cell,0.398461503
+1012,B,Immature B cell,0.320395972
+1013,A,Immature B cell,0.221909376
+1014,A,Immature B cell,0.339471466
+1015,B,Immature B cell,0.396825417
+1016,B,Immature B cell,0.332203436
+1017,B,Immature B cell,0.323639308
+1018,B,Immature B cell,0.32829579
+1019,B,Immature B cell,0.303039491
+1020,A,Immature B cell,0.27093948
+1021,B,Immature B cell,0.310823429
+1022,B,Immature B cell,0.289514405
+1023,B,Immature B cell,0.284761174
+1024,B,Immature B cell,0.285311879
+1025,B,Immature B cell,0.260703287
+1026,A,Immature B cell,0.408749365
+1027,A,Immature B cell,0.322910342
+1028,A,Immature B cell,0.30498217
+1029,B,Immature B cell,0.342179393
+1030,A,Immature B cell,0.313583168
+1031,B,Immature B cell,0.330889173
+1032,B,Immature B cell,0.402036903
+1033,B,Immature B cell,0.27459045
+1034,B,Immature B cell,0.483042404
+1035,B,Immature B cell,0.304571688
+1036,A,Immature dendritic cell,0.608823704
+1037,B,Immature dendritic cell,0.668696825
+1038,B,Immature dendritic cell,0.695059585
+1039,B,Immature dendritic cell,0.710421362
+1040,B,Immature dendritic cell,0.636743114
+1041,A,Immature dendritic cell,0.611162392
+1042,A,Immature dendritic cell,0.745914535
+1043,A,Immature dendritic cell,0.690307422
+1044,B,Immature dendritic cell,0.368852146
+1045,B,Immature dendritic cell,0.643332573
+1046,A,Immature dendritic cell,0.649381812
+1047,A,Immature dendritic cell,0.612778508
+1048,B,Immature dendritic cell,0.698601621
+1049,B,Immature dendritic cell,0.63527092
+1050,B,Immature dendritic cell,0.670439959
+1051,A,Immature dendritic cell,0.636154181
+1052,B,Immature dendritic cell,0.697128405
+1053,A,Immature dendritic cell,0.65241764
+1054,B,Immature dendritic cell,0.633652028
+1055,B,Immature dendritic cell,0.711164364
+1056,B,Immature dendritic cell,0.685029439
+1057,B,Immature dendritic cell,0.65641389
+1058,B,Immature dendritic cell,0.715231636
+1059,B,Immature dendritic cell,0.654798587
+1060,A,Immature dendritic cell,0.643260109
+1061,A,Immature dendritic cell,0.659405448
+1062,A,Immature dendritic cell,0.669964444
+1063,B,Immature dendritic cell,0.686970238
+1064,B,Immature dendritic cell,0.702754375
+1065,A,Immature dendritic cell,0.706860093
+1066,A,Immature dendritic cell,0.653295435
+1067,B,Immature dendritic cell,0.688953022
+1068,B,Immature dendritic cell,0.69975397
+1069,A,Immature dendritic cell,0.659009237
+1070,B,Immature dendritic cell,0.658509577
+1071,B,Immature dendritic cell,0.672059773
+1072,A,Immature dendritic cell,0.752040435
+1073,A,Immature dendritic cell,0.631769742
+1074,A,Immature dendritic cell,0.611515128
+1075,A,Immature dendritic cell,0.683635655
+1076,B,Immature dendritic cell,0.678075922
+1077,B,Immature dendritic cell,0.676277374
+1078,A,Immature dendritic cell,0.661493562
+1079,A,Immature dendritic cell,0.667155373
+1080,A,Immature dendritic cell,0.638138826
+1081,B,Immature dendritic cell,0.698040249
+1082,B,Immature dendritic cell,0.736091866
+1083,B,Immature dendritic cell,0.730244706
+1084,B,Immature dendritic cell,0.619018776
+1085,B,Immature dendritic cell,0.6476531
+1086,B,Immature dendritic cell,0.646721727
+1087,B,Immature dendritic cell,0.643598141
+1088,B,Immature dendritic cell,0.715135296
+1089,B,Immature dendritic cell,0.69239663
+1090,B,Immature dendritic cell,0.700365027
+1091,B,Immature dendritic cell,0.663155445
+1092,A,Immature dendritic cell,0.608328976
+1093,B,Immature dendritic cell,0.694668179
+1094,B,Immature dendritic cell,0.719939555
+1095,B,Immature dendritic cell,0.652259213
+1096,B,Immature dendritic cell,0.706728053
+1097,A,Immature dendritic cell,0.641287302
+1098,A,Immature dendritic cell,0.633275315
+1099,A,Immature dendritic cell,0.632803464
+1100,B,Immature dendritic cell,0.661422351
+1101,B,Immature dendritic cell,0.68217101
+1102,B,Immature dendritic cell,0.658720597
+1103,A,Immature dendritic cell,0.642073917
+1104,A,Immature dendritic cell,0.695105968
+1105,B,Immature dendritic cell,0.633718178
+1106,B,Immature dendritic cell,0.690664325
+1107,A,Immature dendritic cell,0.721416507
+1108,B,Immature dendritic cell,0.624016089
+1109,B,Immature dendritic cell,0.638422963
+1110,B,Immature dendritic cell,0.623584687
+1111,A,Immature dendritic cell,0.683721203
+1112,A,Immature dendritic cell,0.67449801
+1113,B,Immature dendritic cell,0.660860055
+1114,A,Immature dendritic cell,0.653114467
+1115,A,Immature dendritic cell,0.67264808
+1116,B,Immature dendritic cell,0.702028492
+1117,B,Immature dendritic cell,0.655996299
+1118,A,Immature dendritic cell,0.664811087
+1119,B,Immature dendritic cell,0.617341735
+1120,B,Immature dendritic cell,0.62532484
+1121,B,Immature dendritic cell,0.647854089
+1122,B,Immature dendritic cell,0.663638657
+1123,B,Immature dendritic cell,0.616813915
+1124,B,Immature dendritic cell,0.681671304
+1125,B,Immature dendritic cell,0.663338453
+1126,B,Immature dendritic cell,0.662952592
+1127,B,Immature dendritic cell,0.659090284
+1128,A,Immature dendritic cell,0.63619975
+1129,A,Immature dendritic cell,0.721262891
+1130,B,Immature dendritic cell,0.713499521
+1131,B,Immature dendritic cell,0.619308535
+1132,B,Immature dendritic cell,0.672162894
+1133,B,Immature dendritic cell,0.635928216
+1134,B,Immature dendritic cell,0.669223894
+1135,A,Immature dendritic cell,0.649105243
+1136,B,Immature dendritic cell,0.644545135
+1137,B,Immature dendritic cell,0.65196898
+1138,B,Immature dendritic cell,0.678467424
+1139,B,Immature dendritic cell,0.646385394
+1140,B,Immature dendritic cell,0.61603095
+1141,A,Immature dendritic cell,0.672117262
+1142,A,Immature dendritic cell,0.649028615
+1143,A,Immature dendritic cell,0.668415041
+1144,B,Immature dendritic cell,0.675487349
+1145,A,Immature dendritic cell,0.611974091
+1146,B,Immature dendritic cell,0.65814037
+1147,B,Immature dendritic cell,0.689899011
+1148,B,Immature dendritic cell,0.654165518
+1149,B,Immature dendritic cell,0.754795173
+1150,B,Immature dendritic cell,0.658601055
+1151,A,MDSC,0.485462186
+1152,B,MDSC,0.652200776
+1153,B,MDSC,0.633540184
+1154,B,MDSC,0.821609798
+1155,B,MDSC,0.56728316
+1156,A,MDSC,0.657762276
+1157,A,MDSC,0.931241749
+1158,A,MDSC,0.649425199
+1159,B,MDSC,0.628502977
+1160,B,MDSC,0.50912309
+1161,A,MDSC,0.593294605
+1162,A,MDSC,0.496055555
+1163,B,MDSC,0.662093491
+1164,B,MDSC,0.710454604
+1165,B,MDSC,0.62160519
+1166,A,MDSC,0.498030502
+1167,B,MDSC,0.65964922
+1168,A,MDSC,0.665882063
+1169,B,MDSC,0.489281251
+1170,B,MDSC,0.575074971
+1171,B,MDSC,0.824632676
+1172,B,MDSC,0.598692172
+1173,B,MDSC,0.702198902
+1174,B,MDSC,0.591461258
+1175,A,MDSC,0.599145539
+1176,A,MDSC,0.625083898
+1177,A,MDSC,0.756522084
+1178,B,MDSC,0.634836896
+1179,B,MDSC,0.875282349
+1180,A,MDSC,0.785902419
+1181,A,MDSC,0.733643722
+1182,B,MDSC,0.583010054
+1183,B,MDSC,0.690049688
+1184,A,MDSC,0.698829922
+1185,B,MDSC,0.633372435
+1186,B,MDSC,0.615055908
+1187,A,MDSC,0.803156983
+1188,A,MDSC,0.586573452
+1189,A,MDSC,0.596320667
+1190,A,MDSC,0.685746574
+1191,B,MDSC,0.770144031
+1192,B,MDSC,0.656448374
+1193,A,MDSC,0.572987749
+1194,A,MDSC,0.673796811
+1195,A,MDSC,0.572555301
+1196,B,MDSC,0.706322832
+1197,B,MDSC,0.759261884
+1198,B,MDSC,0.756395718
+1199,B,MDSC,0.621136054
+1200,B,MDSC,0.547570639
+1201,B,MDSC,0.662898783
+1202,B,MDSC,0.70343581
+1203,B,MDSC,0.7035551
+1204,B,MDSC,0.752398133
+1205,B,MDSC,0.604435734
+1206,B,MDSC,0.62506353
+1207,A,MDSC,0.534732126
+1208,B,MDSC,0.722510654
+1209,B,MDSC,0.69997056
+1210,B,MDSC,0.57272295
+1211,B,MDSC,0.750692798
+1212,A,MDSC,0.580593466
+1213,A,MDSC,0.520873349
+1214,A,MDSC,0.542544132
+1215,B,MDSC,0.714207053
+1216,B,MDSC,0.716796883
+1217,B,MDSC,0.700013427
+1218,A,MDSC,0.830171263
+1219,A,MDSC,0.735409664
+1220,B,MDSC,0.488324025
+1221,B,MDSC,0.721235635
+1222,A,MDSC,0.648360809
+1223,B,MDSC,0.602815024
+1224,B,MDSC,0.687653387
+1225,B,MDSC,0.47602182
+1226,A,MDSC,0.835680016
+1227,A,MDSC,0.832187847
+1228,B,MDSC,0.657185799
+1229,A,MDSC,0.616645302
+1230,A,MDSC,0.557734282
+1231,B,MDSC,0.759880323
+1232,B,MDSC,0.564016837
+1233,A,MDSC,0.644209484
+1234,B,MDSC,0.59926055
+1235,B,MDSC,0.493904875
+1236,B,MDSC,0.562779136
+1237,B,MDSC,0.586929851
+1238,B,MDSC,0.572300664
+1239,B,MDSC,0.563528115
+1240,B,MDSC,0.598599015
+1241,B,MDSC,0.746981211
+1242,B,MDSC,0.636630183
+1243,A,MDSC,0.501303599
+1244,A,MDSC,0.674191202
+1245,B,MDSC,0.782557987
+1246,B,MDSC,0.60005513
+1247,B,MDSC,0.666594
+1248,B,MDSC,0.595474094
+1249,B,MDSC,0.715851586
+1250,A,MDSC,0.570425875
+1251,B,MDSC,0.628674125
+1252,B,MDSC,0.615558818
+1253,B,MDSC,0.548524441
+1254,B,MDSC,0.600966826
+1255,B,MDSC,0.525455709
+1256,A,MDSC,0.772906575
+1257,A,MDSC,0.635451957
+1258,A,MDSC,0.655320632
+1259,B,MDSC,0.615822914
+1260,A,MDSC,0.539657905
+1261,B,MDSC,0.696626068
+1262,B,MDSC,0.758221047
+1263,B,MDSC,0.47278182
+1264,B,MDSC,0.979677746
+1265,B,MDSC,0.584440664
+1266,A,Macrophage,0.331619039
+1267,B,Macrophage,0.413128403
+1268,B,Macrophage,0.361986977
+1269,B,Macrophage,0.449079872
+1270,B,Macrophage,0.304484164
+1271,A,Macrophage,0.383392955
+1272,A,Macrophage,0.513106793
+1273,A,Macrophage,0.382362135
+1274,B,Macrophage,0.478431176
+1275,B,Macrophage,0.358275867
+1276,A,Macrophage,0.35401579
+1277,A,Macrophage,0.326309266
+1278,B,Macrophage,0.403569372
+1279,B,Macrophage,0.353988369
+1280,B,Macrophage,0.327670682
+1281,A,Macrophage,0.390184306
+1282,B,Macrophage,0.313527964
+1283,A,Macrophage,0.39784636
+1284,B,Macrophage,0.310723409
+1285,B,Macrophage,0.320223867
+1286,B,Macrophage,0.483306592
+1287,B,Macrophage,0.378722338
+1288,B,Macrophage,0.424930142
+1289,B,Macrophage,0.364812171
+1290,A,Macrophage,0.350564455
+1291,A,Macrophage,0.381957663
+1292,A,Macrophage,0.418246074
+1293,B,Macrophage,0.390690362
+1294,B,Macrophage,0.536602323
+1295,A,Macrophage,0.444048555
+1296,A,Macrophage,0.441811921
+1297,B,Macrophage,0.325118806
+1298,B,Macrophage,0.443817667
+1299,A,Macrophage,0.397281432
+1300,B,Macrophage,0.37548459
+1301,B,Macrophage,0.345552117
+1302,A,Macrophage,0.47743744
+1303,A,Macrophage,0.366460215
+1304,A,Macrophage,0.363951418
+1305,A,Macrophage,0.432924528
+1306,B,Macrophage,0.442191327
+1307,B,Macrophage,0.356364562
+1308,A,Macrophage,0.401444511
+1309,A,Macrophage,0.412432945
+1310,A,Macrophage,0.371249134
+1311,B,Macrophage,0.409108137
+1312,B,Macrophage,0.456109909
+1313,B,Macrophage,0.490757119
+1314,B,Macrophage,0.29679818
+1315,B,Macrophage,0.305864551
+1316,B,Macrophage,0.445311809
+1317,B,Macrophage,0.446245139
+1318,B,Macrophage,0.428219778
+1319,B,Macrophage,0.442079239
+1320,B,Macrophage,0.331396142
+1321,B,Macrophage,0.327040307
+1322,A,Macrophage,0.361288645
+1323,B,Macrophage,0.421844308
+1324,B,Macrophage,0.428348212
+1325,B,Macrophage,0.360304108
+1326,B,Macrophage,0.410532249
+1327,A,Macrophage,0.390144181
+1328,A,Macrophage,0.368715536
+1329,A,Macrophage,0.400533791
+1330,B,Macrophage,0.422447138
+1331,B,Macrophage,0.464503897
+1332,B,Macrophage,0.420229202
+1333,A,Macrophage,0.502204805
+1334,A,Macrophage,0.435541785
+1335,B,Macrophage,0.306905589
+1336,B,Macrophage,0.399108068
+1337,A,Macrophage,0.313061294
+1338,B,Macrophage,0.291612399
+1339,B,Macrophage,0.351052213
+1340,B,Macrophage,0.319477823
+1341,A,Macrophage,0.426754261
+1342,A,Macrophage,0.457647296
+1343,B,Macrophage,0.407918725
+1344,A,Macrophage,0.35220776
+1345,A,Macrophage,0.400211186
+1346,B,Macrophage,0.402100376
+1347,B,Macrophage,0.344522178
+1348,A,Macrophage,0.398508062
+1349,B,Macrophage,0.389330872
+1350,B,Macrophage,0.318774432
+1351,B,Macrophage,0.344984187
+1352,B,Macrophage,0.380497447
+1353,B,Macrophage,0.312573393
+1354,B,Macrophage,0.374705697
+1355,B,Macrophage,0.422743846
+1356,B,Macrophage,0.464869623
+1357,B,Macrophage,0.360322175
+1358,A,Macrophage,0.333914987
+1359,A,Macrophage,0.43491608
+1360,B,Macrophage,0.492897086
+1361,B,Macrophage,0.387939027
+1362,B,Macrophage,0.374129289
+1363,B,Macrophage,0.302437942
+1364,B,Macrophage,0.436073649
+1365,A,Macrophage,0.379062093
+1366,B,Macrophage,0.369927673
+1367,B,Macrophage,0.372201066
+1368,B,Macrophage,0.317165729
+1369,B,Macrophage,0.378338161
+1370,B,Macrophage,0.350906776
+1371,A,Macrophage,0.41588096
+1372,A,Macrophage,0.409729155
+1373,A,Macrophage,0.40009125
+1374,B,Macrophage,0.38169174
+1375,A,Macrophage,0.352075778
+1376,B,Macrophage,0.408125058
+1377,B,Macrophage,0.471297151
+1378,B,Macrophage,0.314441148
+1379,B,Macrophage,0.639608797
+1380,B,Macrophage,0.362690695
+1381,A,Mast cell,0.217176445
+1382,B,Mast cell,0.366866975
+1383,B,Mast cell,0.322853691
+1384,B,Mast cell,0.343583039
+1385,B,Mast cell,0.325092817
+1386,A,Mast cell,0.453026682
+1387,A,Mast cell,0.466676595
+1388,A,Mast cell,0.335464997
+1389,B,Mast cell,0.469677675
+1390,B,Mast cell,0.323028417
+1391,A,Mast cell,0.230289123
+1392,A,Mast cell,0.169536831
+1393,B,Mast cell,0.378053189
+1394,B,Mast cell,0.35097002
+1395,B,Mast cell,0.334070322
+1396,A,Mast cell,0.225881131
+1397,B,Mast cell,0.398115288
+1398,A,Mast cell,0.445805212
+1399,B,Mast cell,0.347703093
+1400,B,Mast cell,0.290137689
+1401,B,Mast cell,0.380118155
+1402,B,Mast cell,0.358381119
+1403,B,Mast cell,0.442949501
+1404,B,Mast cell,0.264209821
+1405,A,Mast cell,0.193271435
+1406,A,Mast cell,0.24996638
+1407,A,Mast cell,0.442536148
+1408,B,Mast cell,0.330683575
+1409,B,Mast cell,0.390966382
+1410,A,Mast cell,0.341526705
+1411,A,Mast cell,0.311369135
+1412,B,Mast cell,0.363994739
+1413,B,Mast cell,0.370532211
+1414,A,Mast cell,0.333512926
+1415,B,Mast cell,0.348486696
+1416,B,Mast cell,0.344107017
+1417,A,Mast cell,0.447307824
+1418,A,Mast cell,0.29290718
+1419,A,Mast cell,0.307769856
+1420,A,Mast cell,0.312814658
+1421,B,Mast cell,0.403886719
+1422,B,Mast cell,0.391108776
+1423,A,Mast cell,0.258132975
+1424,A,Mast cell,0.326669351
+1425,A,Mast cell,0.273717465
+1426,B,Mast cell,0.391798328
+1427,B,Mast cell,0.411035455
+1428,B,Mast cell,0.538655995
+1429,B,Mast cell,0.265813601
+1430,B,Mast cell,0.228305898
+1431,B,Mast cell,0.299365379
+1432,B,Mast cell,0.266573916
+1433,B,Mast cell,0.378389186
+1434,B,Mast cell,0.470395657
+1435,B,Mast cell,0.360398039
+1436,B,Mast cell,0.414456087
+1437,A,Mast cell,0.3261773
+1438,B,Mast cell,0.312062623
+1439,B,Mast cell,0.328403644
+1440,B,Mast cell,0.347439438
+1441,B,Mast cell,0.370529009
+1442,A,Mast cell,0.224819805
+1443,A,Mast cell,0.333149897
+1444,A,Mast cell,0.253078717
+1445,B,Mast cell,0.355705035
+1446,B,Mast cell,0.406278702
+1447,B,Mast cell,0.35895914
+1448,A,Mast cell,0.476919754
+1449,A,Mast cell,0.397528002
+1450,B,Mast cell,0.31289363
+1451,B,Mast cell,0.388934254
+1452,A,Mast cell,0.291896327
+1453,B,Mast cell,0.32017698
+1454,B,Mast cell,0.289648849
+1455,B,Mast cell,0.276248655
+1456,A,Mast cell,0.514434609
+1457,A,Mast cell,0.347731698
+1458,B,Mast cell,0.324403541
+1459,A,Mast cell,0.312476632
+1460,A,Mast cell,0.322289569
+1461,B,Mast cell,0.458831616
+1462,B,Mast cell,0.30457382
+1463,A,Mast cell,0.314745701
+1464,B,Mast cell,0.300046277
+1465,B,Mast cell,0.352447141
+1466,B,Mast cell,0.32317787
+1467,B,Mast cell,0.34176707
+1468,B,Mast cell,0.313212019
+1469,B,Mast cell,0.266081556
+1470,B,Mast cell,0.326762582
+1471,B,Mast cell,0.348324755
+1472,B,Mast cell,0.319482399
+1473,A,Mast cell,0.253179375
+1474,A,Mast cell,0.38926457
+1475,B,Mast cell,0.438713568
+1476,B,Mast cell,0.267830676
+1477,B,Mast cell,0.314925854
+1478,B,Mast cell,0.294698801
+1479,B,Mast cell,0.399065296
+1480,A,Mast cell,0.288544828
+1481,B,Mast cell,0.301077245
+1482,B,Mast cell,0.325972003
+1483,B,Mast cell,0.251911797
+1484,B,Mast cell,0.256017753
+1485,B,Mast cell,0.228659388
+1486,A,Mast cell,0.341861241
+1487,A,Mast cell,0.374404692
+1488,A,Mast cell,0.34532872
+1489,B,Mast cell,0.284310411
+1490,A,Mast cell,0.332297102
+1491,B,Mast cell,0.342153072
+1492,B,Mast cell,0.448158324
+1493,B,Mast cell,0.283462155
+1494,B,Mast cell,0.484712009
+1495,B,Mast cell,0.285607201
+1496,A,Monocyte,0.728997773
+1497,B,Monocyte,0.814887031
+1498,B,Monocyte,0.843449346
+1499,B,Monocyte,0.846091953
+1500,B,Monocyte,0.814392579
+1501,A,Monocyte,0.788391133
+1502,A,Monocyte,0.817347727
+1503,A,Monocyte,0.804520195
+1504,B,Monocyte,0.589658621
+1505,B,Monocyte,0.860912853
+1506,A,Monocyte,0.824870909
+1507,A,Monocyte,0.72213984
+1508,B,Monocyte,0.848571992
+1509,B,Monocyte,0.778508312
+1510,B,Monocyte,0.806189704
+1511,A,Monocyte,0.803478892
+1512,B,Monocyte,0.809332795
+1513,A,Monocyte,0.800519884
+1514,B,Monocyte,0.777917277
+1515,B,Monocyte,0.858000686
+1516,B,Monocyte,0.798283359
+1517,B,Monocyte,0.811082523
+1518,B,Monocyte,0.872842503
+1519,B,Monocyte,0.8552859
+1520,A,Monocyte,0.818644891
+1521,A,Monocyte,0.798747546
+1522,A,Monocyte,0.845188729
+1523,B,Monocyte,0.865374504
+1524,B,Monocyte,0.862402884
+1525,A,Monocyte,0.789705286
+1526,A,Monocyte,0.774466049
+1527,B,Monocyte,0.834149955
+1528,B,Monocyte,0.825482765
+1529,A,Monocyte,0.800472883
+1530,B,Monocyte,0.773093883
+1531,B,Monocyte,0.810097653
+1532,A,Monocyte,0.805659916
+1533,A,Monocyte,0.77552147
+1534,A,Monocyte,0.809694737
+1535,A,Monocyte,0.822356855
+1536,B,Monocyte,0.800637092
+1537,B,Monocyte,0.806967894
+1538,A,Monocyte,0.794906649
+1539,A,Monocyte,0.791228599
+1540,A,Monocyte,0.821046032
+1541,B,Monocyte,0.810831158
+1542,B,Monocyte,0.890699894
+1543,B,Monocyte,0.89871651
+1544,B,Monocyte,0.790705187
+1545,B,Monocyte,0.832141635
+1546,B,Monocyte,0.824186512
+1547,B,Monocyte,0.809769081
+1548,B,Monocyte,0.804060678
+1549,B,Monocyte,0.878296861
+1550,B,Monocyte,0.820230505
+1551,B,Monocyte,0.765527195
+1552,A,Monocyte,0.811586282
+1553,B,Monocyte,0.809419477
+1554,B,Monocyte,0.819693347
+1555,B,Monocyte,0.794564968
+1556,B,Monocyte,0.78260629
+1557,A,Monocyte,0.831156678
+1558,A,Monocyte,0.771433615
+1559,A,Monocyte,0.816680901
+1560,B,Monocyte,0.830894716
+1561,B,Monocyte,0.852324723
+1562,B,Monocyte,0.856070627
+1563,A,Monocyte,0.86692812
+1564,A,Monocyte,0.805547495
+1565,B,Monocyte,0.73582714
+1566,B,Monocyte,0.822085818
+1567,A,Monocyte,0.842444009
+1568,B,Monocyte,0.789854433
+1569,B,Monocyte,0.789166598
+1570,B,Monocyte,0.840673184
+1571,A,Monocyte,0.845145075
+1572,A,Monocyte,0.853696869
+1573,B,Monocyte,0.820484129
+1574,A,Monocyte,0.802615808
+1575,A,Monocyte,0.826123325
+1576,B,Monocyte,0.822432938
+1577,B,Monocyte,0.811551036
+1578,A,Monocyte,0.800976331
+1579,B,Monocyte,0.859359242
+1580,B,Monocyte,0.767330425
+1581,B,Monocyte,0.83308018
+1582,B,Monocyte,0.811569956
+1583,B,Monocyte,0.824053078
+1584,B,Monocyte,0.836582196
+1585,B,Monocyte,0.813835782
+1586,B,Monocyte,0.834458531
+1587,B,Monocyte,0.804659033
+1588,A,Monocyte,0.773656377
+1589,A,Monocyte,0.802105578
+1590,B,Monocyte,0.849820144
+1591,B,Monocyte,0.805044495
+1592,B,Monocyte,0.816540672
+1593,B,Monocyte,0.792126719
+1594,B,Monocyte,0.819739081
+1595,A,Monocyte,0.791824932
+1596,B,Monocyte,0.805863547
+1597,B,Monocyte,0.819943794
+1598,B,Monocyte,0.825418032
+1599,B,Monocyte,0.78738498
+1600,B,Monocyte,0.811376066
+1601,A,Monocyte,0.824319335
+1602,A,Monocyte,0.784784276
+1603,A,Monocyte,0.786723349
+1604,B,Monocyte,0.823220442
+1605,A,Monocyte,0.82232561
+1606,B,Monocyte,0.824216163
+1607,B,Monocyte,0.846687275
+1608,B,Monocyte,0.766026642
+1609,B,Monocyte,0.883386091
+1610,B,Monocyte,0.822936838
+1611,A,Natural killer T cell,0.441908192
+1612,B,Natural killer T cell,0.444985738
+1613,B,Natural killer T cell,0.412955282
+1614,B,Natural killer T cell,0.48031726
+1615,B,Natural killer T cell,0.421286252
+1616,A,Natural killer T cell,0.424048904
+1617,A,Natural killer T cell,0.54941768
+1618,A,Natural killer T cell,0.449605671
+1619,B,Natural killer T cell,0.499592523
+1620,B,Natural killer T cell,0.41861061
+1621,A,Natural killer T cell,0.417617591
+1622,A,Natural killer T cell,0.451617714
+1623,B,Natural killer T cell,0.464040279
+1624,B,Natural killer T cell,0.456559094
+1625,B,Natural killer T cell,0.457739648
+1626,A,Natural killer T cell,0.411786402
+1627,B,Natural killer T cell,0.47341147
+1628,A,Natural killer T cell,0.438524051
+1629,B,Natural killer T cell,0.349827398
+1630,B,Natural killer T cell,0.431842945
+1631,B,Natural killer T cell,0.535567588
+1632,B,Natural killer T cell,0.415892214
+1633,B,Natural killer T cell,0.431732158
+1634,B,Natural killer T cell,0.373209864
+1635,A,Natural killer T cell,0.413315153
+1636,A,Natural killer T cell,0.454845887
+1637,A,Natural killer T cell,0.432010731
+1638,B,Natural killer T cell,0.458709163
+1639,B,Natural killer T cell,0.505588788
+1640,A,Natural killer T cell,0.503758855
+1641,A,Natural killer T cell,0.441853118
+1642,B,Natural killer T cell,0.429952144
+1643,B,Natural killer T cell,0.489215822
+1644,A,Natural killer T cell,0.466650125
+1645,B,Natural killer T cell,0.427503648
+1646,B,Natural killer T cell,0.440056394
+1647,A,Natural killer T cell,0.500227731
+1648,A,Natural killer T cell,0.432571298
+1649,A,Natural killer T cell,0.422846852
+1650,A,Natural killer T cell,0.513189277
+1651,B,Natural killer T cell,0.469640813
+1652,B,Natural killer T cell,0.437884571
+1653,A,Natural killer T cell,0.444451139
+1654,A,Natural killer T cell,0.454469058
+1655,A,Natural killer T cell,0.445766505
+1656,B,Natural killer T cell,0.429651627
+1657,B,Natural killer T cell,0.466270516
+1658,B,Natural killer T cell,0.448815211
+1659,B,Natural killer T cell,0.449151358
+1660,B,Natural killer T cell,0.453307808
+1661,B,Natural killer T cell,0.482539949
+1662,B,Natural killer T cell,0.42389087
+1663,B,Natural killer T cell,0.465655476
+1664,B,Natural killer T cell,0.466796404
+1665,B,Natural killer T cell,0.449296707
+1666,B,Natural killer T cell,0.374028941
+1667,A,Natural killer T cell,0.440772644
+1668,B,Natural killer T cell,0.497598929
+1669,B,Natural killer T cell,0.440236786
+1670,B,Natural killer T cell,0.432013407
+1671,B,Natural killer T cell,0.455310766
+1672,A,Natural killer T cell,0.444979835
+1673,A,Natural killer T cell,0.451817656
+1674,A,Natural killer T cell,0.405795948
+1675,B,Natural killer T cell,0.400783872
+1676,B,Natural killer T cell,0.469220984
+1677,B,Natural killer T cell,0.431503491
+1678,A,Natural killer T cell,0.487527559
+1679,A,Natural killer T cell,0.488528159
+1680,B,Natural killer T cell,0.395972952
+1681,B,Natural killer T cell,0.42455846
+1682,A,Natural killer T cell,0.471175446
+1683,B,Natural killer T cell,0.413169188
+1684,B,Natural killer T cell,0.420298055
+1685,B,Natural killer T cell,0.409036085
+1686,A,Natural killer T cell,0.473690926
+1687,A,Natural killer T cell,0.484720085
+1688,B,Natural killer T cell,0.474744882
+1689,A,Natural killer T cell,0.46010698
+1690,A,Natural killer T cell,0.422594431
+1691,B,Natural killer T cell,0.497501479
+1692,B,Natural killer T cell,0.407372253
+1693,A,Natural killer T cell,0.448046197
+1694,B,Natural killer T cell,0.478250492
+1695,B,Natural killer T cell,0.407467561
+1696,B,Natural killer T cell,0.420003842
+1697,B,Natural killer T cell,0.422728685
+1698,B,Natural killer T cell,0.394206351
+1699,B,Natural killer T cell,0.425660811
+1700,B,Natural killer T cell,0.41408502
+1701,B,Natural killer T cell,0.474136792
+1702,B,Natural killer T cell,0.455345875
+1703,A,Natural killer T cell,0.441863764
+1704,A,Natural killer T cell,0.460521537
+1705,B,Natural killer T cell,0.481462884
+1706,B,Natural killer T cell,0.43386495
+1707,B,Natural killer T cell,0.45365659
+1708,B,Natural killer T cell,0.45099963
+1709,B,Natural killer T cell,0.504729611
+1710,A,Natural killer T cell,0.436679953
+1711,B,Natural killer T cell,0.412875297
+1712,B,Natural killer T cell,0.469536593
+1713,B,Natural killer T cell,0.41508393
+1714,B,Natural killer T cell,0.482964221
+1715,B,Natural killer T cell,0.42518682
+1716,A,Natural killer T cell,0.474754383
+1717,A,Natural killer T cell,0.470546323
+1718,A,Natural killer T cell,0.463827119
+1719,B,Natural killer T cell,0.439955532
+1720,A,Natural killer T cell,0.442209652
+1721,B,Natural killer T cell,0.451691042
+1722,B,Natural killer T cell,0.48835413
+1723,B,Natural killer T cell,0.407283291
+1724,B,Natural killer T cell,0.526954041
+1725,B,Natural killer T cell,0.433352368
+1726,A,Natural killer cell,0.626577561
+1727,B,Natural killer cell,0.652228448
+1728,B,Natural killer cell,0.658518823
+1729,B,Natural killer cell,0.631766835
+1730,B,Natural killer cell,0.609882749
+1731,A,Natural killer cell,0.630778709
+1732,A,Natural killer cell,0.71600371
+1733,A,Natural killer cell,0.683329844
+1734,B,Natural killer cell,0.646206174
+1735,B,Natural killer cell,0.614157872
+1736,A,Natural killer cell,0.62891493
+1737,A,Natural killer cell,0.641237623
+1738,B,Natural killer cell,0.647593934
+1739,B,Natural killer cell,0.656026228
+1740,B,Natural killer cell,0.609860507
+1741,A,Natural killer cell,0.621905592
+1742,B,Natural killer cell,0.655411295
+1743,A,Natural killer cell,0.637118983
+1744,B,Natural killer cell,0.627483903
+1745,B,Natural killer cell,0.656346449
+1746,B,Natural killer cell,0.696003617
+1747,B,Natural killer cell,0.702427532
+1748,B,Natural killer cell,0.636723921
+1749,B,Natural killer cell,0.621682463
+1750,A,Natural killer cell,0.635818322
+1751,A,Natural killer cell,0.607132074
+1752,A,Natural killer cell,0.59417597
+1753,B,Natural killer cell,0.641119056
+1754,B,Natural killer cell,0.655406791
+1755,A,Natural killer cell,0.652468015
+1756,A,Natural killer cell,0.635438055
+1757,B,Natural killer cell,0.638892913
+1758,B,Natural killer cell,0.703887501
+1759,A,Natural killer cell,0.609982
+1760,B,Natural killer cell,0.605540986
+1761,B,Natural killer cell,0.647659785
+1762,A,Natural killer cell,0.628195306
+1763,A,Natural killer cell,0.600760534
+1764,A,Natural killer cell,0.630314078
+1765,A,Natural killer cell,0.627087261
+1766,B,Natural killer cell,0.636226779
+1767,B,Natural killer cell,0.645338195
+1768,A,Natural killer cell,0.659563334
+1769,A,Natural killer cell,0.674166444
+1770,A,Natural killer cell,0.622933259
+1771,B,Natural killer cell,0.610839504
+1772,B,Natural killer cell,0.680478037
+1773,B,Natural killer cell,0.682735855
+1774,B,Natural killer cell,0.599219265
+1775,B,Natural killer cell,0.608101829
+1776,B,Natural killer cell,0.645304565
+1777,B,Natural killer cell,0.667055664
+1778,B,Natural killer cell,0.706680417
+1779,B,Natural killer cell,0.695018787
+1780,B,Natural killer cell,0.647927048
+1781,B,Natural killer cell,0.587265565
+1782,A,Natural killer cell,0.697969162
+1783,B,Natural killer cell,0.665503779
+1784,B,Natural killer cell,0.609744127
+1785,B,Natural killer cell,0.589310395
+1786,B,Natural killer cell,0.642501136
+1787,A,Natural killer cell,0.608844435
+1788,A,Natural killer cell,0.638711799
+1789,A,Natural killer cell,0.667468128
+1790,B,Natural killer cell,0.66202074
+1791,B,Natural killer cell,0.731088188
+1792,B,Natural killer cell,0.624473592
+1793,A,Natural killer cell,0.684853217
+1794,A,Natural killer cell,0.599518744
+1795,B,Natural killer cell,0.637118384
+1796,B,Natural killer cell,0.652930539
+1797,A,Natural killer cell,0.620093181
+1798,B,Natural killer cell,0.625487318
+1799,B,Natural killer cell,0.657362886
+1800,B,Natural killer cell,0.653862129
+1801,A,Natural killer cell,0.665369246
+1802,A,Natural killer cell,0.697585622
+1803,B,Natural killer cell,0.679309243
+1804,A,Natural killer cell,0.578295808
+1805,A,Natural killer cell,0.65321617
+1806,B,Natural killer cell,0.709045306
+1807,B,Natural killer cell,0.694809151
+1808,A,Natural killer cell,0.658071449
+1809,B,Natural killer cell,0.644751756
+1810,B,Natural killer cell,0.598051488
+1811,B,Natural killer cell,0.639757206
+1812,B,Natural killer cell,0.651605853
+1813,B,Natural killer cell,0.58205359
+1814,B,Natural killer cell,0.63221175
+1815,B,Natural killer cell,0.584794558
+1816,B,Natural killer cell,0.685219898
+1817,B,Natural killer cell,0.693774357
+1818,A,Natural killer cell,0.577833356
+1819,A,Natural killer cell,0.669726734
+1820,B,Natural killer cell,0.721042558
+1821,B,Natural killer cell,0.596975767
+1822,B,Natural killer cell,0.617410089
+1823,B,Natural killer cell,0.639965961
+1824,B,Natural killer cell,0.675478355
+1825,A,Natural killer cell,0.672354622
+1826,B,Natural killer cell,0.618595861
+1827,B,Natural killer cell,0.638447108
+1828,B,Natural killer cell,0.599800846
+1829,B,Natural killer cell,0.682210511
+1830,B,Natural killer cell,0.566111818
+1831,A,Natural killer cell,0.684532999
+1832,A,Natural killer cell,0.695489995
+1833,A,Natural killer cell,0.612093565
+1834,B,Natural killer cell,0.67229362
+1835,A,Natural killer cell,0.592758895
+1836,B,Natural killer cell,0.617537447
+1837,B,Natural killer cell,0.686252276
+1838,B,Natural killer cell,0.633268428
+1839,B,Natural killer cell,0.704371781
+1840,B,Natural killer cell,0.631892419
+1841,A,Neutrophil,0.296780107
+1842,B,Neutrophil,0.217898339
+1843,B,Neutrophil,0.286663871
+1844,B,Neutrophil,0.253141049
+1845,B,Neutrophil,0.16271317
+1846,A,Neutrophil,0.187656662
+1847,A,Neutrophil,0.261100658
+1848,A,Neutrophil,0.257856888
+1849,B,Neutrophil,0.55848564
+1850,B,Neutrophil,0.234867193
+1851,A,Neutrophil,0.288391372
+1852,A,Neutrophil,0.2979464
+1853,B,Neutrophil,0.238358134
+1854,B,Neutrophil,0.247439558
+1855,B,Neutrophil,0.196188789
+1856,A,Neutrophil,0.152958673
+1857,B,Neutrophil,0.164289084
+1858,A,Neutrophil,0.206203459
+1859,B,Neutrophil,0.152837116
+1860,B,Neutrophil,0.312565023
+1861,B,Neutrophil,0.208633797
+1862,B,Neutrophil,0.221560937
+1863,B,Neutrophil,0.375675775
+1864,B,Neutrophil,0.362365508
+1865,A,Neutrophil,0.281359853
+1866,A,Neutrophil,0.238399566
+1867,A,Neutrophil,0.255248063
+1868,B,Neutrophil,0.232229432
+1869,B,Neutrophil,0.259004644
+1870,A,Neutrophil,0.289045606
+1871,A,Neutrophil,0.233855956
+1872,B,Neutrophil,0.307453232
+1873,B,Neutrophil,0.271238432
+1874,A,Neutrophil,0.181893403
+1875,B,Neutrophil,0.154981334
+1876,B,Neutrophil,0.116640979
+1877,A,Neutrophil,0.19617492
+1878,A,Neutrophil,0.243950191
+1879,A,Neutrophil,0.185782075
+1880,A,Neutrophil,0.244308117
+1881,B,Neutrophil,0.374910206
+1882,B,Neutrophil,0.208124609
+1883,A,Neutrophil,0.235207661
+1884,A,Neutrophil,0.224374873
+1885,A,Neutrophil,0.303228963
+1886,B,Neutrophil,0.209811018
+1887,B,Neutrophil,0.334268203
+1888,B,Neutrophil,0.284779375
+1889,B,Neutrophil,0.212501095
+1890,B,Neutrophil,0.290551037
+1891,B,Neutrophil,0.22461046
+1892,B,Neutrophil,0.310309851
+1893,B,Neutrophil,0.273490775
+1894,B,Neutrophil,0.315469866
+1895,B,Neutrophil,0.279406577
+1896,B,Neutrophil,0.247634815
+1897,A,Neutrophil,0.275787041
+1898,B,Neutrophil,0.279408131
+1899,B,Neutrophil,0.27599259
+1900,B,Neutrophil,0.272509455
+1901,B,Neutrophil,0.285765915
+1902,A,Neutrophil,0.261289463
+1903,A,Neutrophil,0.178802331
+1904,A,Neutrophil,0.229840486
+1905,B,Neutrophil,0.275520978
+1906,B,Neutrophil,0.351033916
+1907,B,Neutrophil,0.208141916
+1908,A,Neutrophil,0.209138502
+1909,A,Neutrophil,0.187375556
+1910,B,Neutrophil,0.226447767
+1911,B,Neutrophil,0.24372245
+1912,A,Neutrophil,0.225436198
+1913,B,Neutrophil,0.235185007
+1914,B,Neutrophil,0.281144689
+1915,B,Neutrophil,0.251252418
+1916,A,Neutrophil,0.209667613
+1917,A,Neutrophil,0.24052823
+1918,B,Neutrophil,0.276192671
+1919,A,Neutrophil,0.156045915
+1920,A,Neutrophil,0.273428388
+1921,B,Neutrophil,0.291169186
+1922,B,Neutrophil,0.337997581
+1923,A,Neutrophil,0.272864808
+1924,B,Neutrophil,0.266252769
+1925,B,Neutrophil,0.245865665
+1926,B,Neutrophil,0.281609099
+1927,B,Neutrophil,0.218634771
+1928,B,Neutrophil,0.241211612
+1929,B,Neutrophil,0.241121181
+1930,B,Neutrophil,0.199760664
+1931,B,Neutrophil,0.219133862
+1932,B,Neutrophil,0.273894555
+1933,A,Neutrophil,0.165963936
+1934,A,Neutrophil,0.20919552
+1935,B,Neutrophil,0.221558025
+1936,B,Neutrophil,0.189802335
+1937,B,Neutrophil,0.179421665
+1938,B,Neutrophil,0.241351368
+1939,B,Neutrophil,0.234311697
+1940,A,Neutrophil,0.278588088
+1941,B,Neutrophil,0.20772355
+1942,B,Neutrophil,0.255048378
+1943,B,Neutrophil,0.231077502
+1944,B,Neutrophil,0.304881856
+1945,B,Neutrophil,0.275931186
+1946,A,Neutrophil,0.265640696
+1947,A,Neutrophil,0.240413765
+1948,A,Neutrophil,0.186337378
+1949,B,Neutrophil,0.209582172
+1950,A,Neutrophil,0.298041282
+1951,B,Neutrophil,0.226842627
+1952,B,Neutrophil,0.280663662
+1953,B,Neutrophil,0.256956418
+1954,B,Neutrophil,0.290026731
+1955,B,Neutrophil,0.282640125
+1956,A,Plasmacytoid dendritic cell,0.646456032
+1957,B,Plasmacytoid dendritic cell,0.719049229
+1958,B,Plasmacytoid dendritic cell,0.768373777
+1959,B,Plasmacytoid dendritic cell,0.736249623
+1960,B,Plasmacytoid dendritic cell,0.688653862
+1961,A,Plasmacytoid dendritic cell,0.666296481
+1962,A,Plasmacytoid dendritic cell,0.778556733
+1963,A,Plasmacytoid dendritic cell,0.748769012
+1964,B,Plasmacytoid dendritic cell,0.474134959
+1965,B,Plasmacytoid dendritic cell,0.694854973
+1966,A,Plasmacytoid dendritic cell,0.699435808
+1967,A,Plasmacytoid dendritic cell,0.683039057
+1968,B,Plasmacytoid dendritic cell,0.706356417
+1969,B,Plasmacytoid dendritic cell,0.676520615
+1970,B,Plasmacytoid dendritic cell,0.741109237
+1971,A,Plasmacytoid dendritic cell,0.683047185
+1972,B,Plasmacytoid dendritic cell,0.715313213
+1973,A,Plasmacytoid dendritic cell,0.681985206
+1974,B,Plasmacytoid dendritic cell,0.683635234
+1975,B,Plasmacytoid dendritic cell,0.771687717
+1976,B,Plasmacytoid dendritic cell,0.726591649
+1977,B,Plasmacytoid dendritic cell,0.740764363
+1978,B,Plasmacytoid dendritic cell,0.744187897
+1979,B,Plasmacytoid dendritic cell,0.681728236
+1980,A,Plasmacytoid dendritic cell,0.696490079
+1981,A,Plasmacytoid dendritic cell,0.701281026
+1982,A,Plasmacytoid dendritic cell,0.708471155
+1983,B,Plasmacytoid dendritic cell,0.696365726
+1984,B,Plasmacytoid dendritic cell,0.735949758
+1985,A,Plasmacytoid dendritic cell,0.726563829
+1986,A,Plasmacytoid dendritic cell,0.686350696
+1987,B,Plasmacytoid dendritic cell,0.708150944
+1988,B,Plasmacytoid dendritic cell,0.728997605
+1989,A,Plasmacytoid dendritic cell,0.716306716
+1990,B,Plasmacytoid dendritic cell,0.668167681
+1991,B,Plasmacytoid dendritic cell,0.683421179
+1992,A,Plasmacytoid dendritic cell,0.728771078
+1993,A,Plasmacytoid dendritic cell,0.695919544
+1994,A,Plasmacytoid dendritic cell,0.694181692
+1995,A,Plasmacytoid dendritic cell,0.724700096
+1996,B,Plasmacytoid dendritic cell,0.736216519
+1997,B,Plasmacytoid dendritic cell,0.71040696
+1998,A,Plasmacytoid dendritic cell,0.67244923
+1999,A,Plasmacytoid dendritic cell,0.691046106
+2000,A,Plasmacytoid dendritic cell,0.690481765
+2001,B,Plasmacytoid dendritic cell,0.686195871
+2002,B,Plasmacytoid dendritic cell,0.740435454
+2003,B,Plasmacytoid dendritic cell,0.744007866
+2004,B,Plasmacytoid dendritic cell,0.734604297
+2005,B,Plasmacytoid dendritic cell,0.700410858
+2006,B,Plasmacytoid dendritic cell,0.701397031
+2007,B,Plasmacytoid dendritic cell,0.705276224
+2008,B,Plasmacytoid dendritic cell,0.711988259
+2009,B,Plasmacytoid dendritic cell,0.759068802
+2010,B,Plasmacytoid dendritic cell,0.724262607
+2011,B,Plasmacytoid dendritic cell,0.662115724
+2012,A,Plasmacytoid dendritic cell,0.701333
+2013,B,Plasmacytoid dendritic cell,0.717629487
+2014,B,Plasmacytoid dendritic cell,0.723446839
+2015,B,Plasmacytoid dendritic cell,0.690888004
+2016,B,Plasmacytoid dendritic cell,0.703194307
+2017,A,Plasmacytoid dendritic cell,0.676898144
+2018,A,Plasmacytoid dendritic cell,0.691725221
+2019,A,Plasmacytoid dendritic cell,0.725068367
+2020,B,Plasmacytoid dendritic cell,0.67491379
+2021,B,Plasmacytoid dendritic cell,0.712735766
+2022,B,Plasmacytoid dendritic cell,0.733988006
+2023,A,Plasmacytoid dendritic cell,0.743783931
+2024,A,Plasmacytoid dendritic cell,0.687978177
+2025,B,Plasmacytoid dendritic cell,0.660389241
+2026,B,Plasmacytoid dendritic cell,0.702602328
+2027,A,Plasmacytoid dendritic cell,0.684805008
+2028,B,Plasmacytoid dendritic cell,0.754293333
+2029,B,Plasmacytoid dendritic cell,0.765681226
+2030,B,Plasmacytoid dendritic cell,0.689389257
+2031,A,Plasmacytoid dendritic cell,0.712669622
+2032,A,Plasmacytoid dendritic cell,0.721962959
+2033,B,Plasmacytoid dendritic cell,0.743132848
+2034,A,Plasmacytoid dendritic cell,0.725391002
+2035,A,Plasmacytoid dendritic cell,0.677039414
+2036,B,Plasmacytoid dendritic cell,0.74291704
+2037,B,Plasmacytoid dendritic cell,0.741029572
+2038,A,Plasmacytoid dendritic cell,0.698333315
+2039,B,Plasmacytoid dendritic cell,0.730525219
+2040,B,Plasmacytoid dendritic cell,0.671749143
+2041,B,Plasmacytoid dendritic cell,0.69164641
+2042,B,Plasmacytoid dendritic cell,0.693043937
+2043,B,Plasmacytoid dendritic cell,0.726098784
+2044,B,Plasmacytoid dendritic cell,0.699711734
+2045,B,Plasmacytoid dendritic cell,0.662271418
+2046,B,Plasmacytoid dendritic cell,0.716776109
+2047,B,Plasmacytoid dendritic cell,0.74565023
+2048,A,Plasmacytoid dendritic cell,0.669556366
+2049,A,Plasmacytoid dendritic cell,0.699611329
+2050,B,Plasmacytoid dendritic cell,0.732197583
+2051,B,Plasmacytoid dendritic cell,0.702902248
+2052,B,Plasmacytoid dendritic cell,0.702731343
+2053,B,Plasmacytoid dendritic cell,0.698371052
+2054,B,Plasmacytoid dendritic cell,0.753301709
+2055,A,Plasmacytoid dendritic cell,0.683849581
+2056,B,Plasmacytoid dendritic cell,0.721620862
+2057,B,Plasmacytoid dendritic cell,0.730127349
+2058,B,Plasmacytoid dendritic cell,0.680683065
+2059,B,Plasmacytoid dendritic cell,0.747200737
+2060,B,Plasmacytoid dendritic cell,0.708706875
+2061,A,Plasmacytoid dendritic cell,0.732232396
+2062,A,Plasmacytoid dendritic cell,0.686774044
+2063,A,Plasmacytoid dendritic cell,0.6744256
+2064,B,Plasmacytoid dendritic cell,0.691888016
+2065,A,Plasmacytoid dendritic cell,0.732867282
+2066,B,Plasmacytoid dendritic cell,0.728647307
+2067,B,Plasmacytoid dendritic cell,0.748265362
+2068,B,Plasmacytoid dendritic cell,0.679361003
+2069,B,Plasmacytoid dendritic cell,0.784693488
+2070,B,Plasmacytoid dendritic cell,0.706443417
+2071,A,Regulatory T cell,0.411564968
+2072,B,Regulatory T cell,0.543559928
+2073,B,Regulatory T cell,0.484075868
+2074,B,Regulatory T cell,0.559121947
+2075,B,Regulatory T cell,0.490619768
+2076,A,Regulatory T cell,0.526501996
+2077,A,Regulatory T cell,0.670644444
+2078,A,Regulatory T cell,0.466284083
+2079,B,Regulatory T cell,0.637715334
+2080,B,Regulatory T cell,0.481565487
+2081,A,Regulatory T cell,0.433083788
+2082,A,Regulatory T cell,0.387372985
+2083,B,Regulatory T cell,0.510286226
+2084,B,Regulatory T cell,0.478484535
+2085,B,Regulatory T cell,0.506017826
+2086,A,Regulatory T cell,0.385268395
+2087,B,Regulatory T cell,0.511284652
+2088,A,Regulatory T cell,0.492632528
+2089,B,Regulatory T cell,0.450263652
+2090,B,Regulatory T cell,0.43324511
+2091,B,Regulatory T cell,0.612170837
+2092,B,Regulatory T cell,0.445294483
+2093,B,Regulatory T cell,0.540390895
+2094,B,Regulatory T cell,0.43544484
+2095,A,Regulatory T cell,0.390231799
+2096,A,Regulatory T cell,0.428053976
+2097,A,Regulatory T cell,0.456520717
+2098,B,Regulatory T cell,0.498050855
+2099,B,Regulatory T cell,0.546231726
+2100,A,Regulatory T cell,0.517118492
+2101,A,Regulatory T cell,0.475667068
+2102,B,Regulatory T cell,0.472074575
+2103,B,Regulatory T cell,0.544585483
+2104,A,Regulatory T cell,0.545548268
+2105,B,Regulatory T cell,0.462646068
+2106,B,Regulatory T cell,0.447091235
+2107,A,Regulatory T cell,0.554661028
+2108,A,Regulatory T cell,0.476582893
+2109,A,Regulatory T cell,0.416343147
+2110,A,Regulatory T cell,0.548825832
+2111,B,Regulatory T cell,0.570553468
+2112,B,Regulatory T cell,0.503931087
+2113,A,Regulatory T cell,0.479481659
+2114,A,Regulatory T cell,0.546157045
+2115,A,Regulatory T cell,0.455326884
+2116,B,Regulatory T cell,0.555757836
+2117,B,Regulatory T cell,0.565732211
+2118,B,Regulatory T cell,0.64408406
+2119,B,Regulatory T cell,0.473947277
+2120,B,Regulatory T cell,0.467121347
+2121,B,Regulatory T cell,0.460006542
+2122,B,Regulatory T cell,0.520352854
+2123,B,Regulatory T cell,0.57327687
+2124,B,Regulatory T cell,0.582055117
+2125,B,Regulatory T cell,0.434123007
+2126,B,Regulatory T cell,0.527764184
+2127,A,Regulatory T cell,0.432098131
+2128,B,Regulatory T cell,0.531002051
+2129,B,Regulatory T cell,0.523801283
+2130,B,Regulatory T cell,0.463224124
+2131,B,Regulatory T cell,0.489367769
+2132,A,Regulatory T cell,0.453792449
+2133,A,Regulatory T cell,0.420696613
+2134,A,Regulatory T cell,0.391480156
+2135,B,Regulatory T cell,0.519853432
+2136,B,Regulatory T cell,0.596889251
+2137,B,Regulatory T cell,0.55856116
+2138,A,Regulatory T cell,0.628577876
+2139,A,Regulatory T cell,0.539471542
+2140,B,Regulatory T cell,0.459714134
+2141,B,Regulatory T cell,0.51945427
+2142,A,Regulatory T cell,0.444517832
+2143,B,Regulatory T cell,0.433121585
+2144,B,Regulatory T cell,0.440391942
+2145,B,Regulatory T cell,0.419527871
+2146,A,Regulatory T cell,0.566709263
+2147,A,Regulatory T cell,0.529035585
+2148,B,Regulatory T cell,0.462041856
+2149,A,Regulatory T cell,0.458300363
+2150,A,Regulatory T cell,0.483751979
+2151,B,Regulatory T cell,0.555580082
+2152,B,Regulatory T cell,0.433670638
+2153,A,Regulatory T cell,0.458826628
+2154,B,Regulatory T cell,0.483134408
+2155,B,Regulatory T cell,0.384917926
+2156,B,Regulatory T cell,0.404600626
+2157,B,Regulatory T cell,0.493684397
+2158,B,Regulatory T cell,0.356698672
+2159,B,Regulatory T cell,0.452724155
+2160,B,Regulatory T cell,0.417153271
+2161,B,Regulatory T cell,0.545137785
+2162,B,Regulatory T cell,0.487137615
+2163,A,Regulatory T cell,0.375417482
+2164,A,Regulatory T cell,0.509689756
+2165,B,Regulatory T cell,0.55182646
+2166,B,Regulatory T cell,0.466596325
+2167,B,Regulatory T cell,0.481993942
+2168,B,Regulatory T cell,0.390564388
+2169,B,Regulatory T cell,0.543906286
+2170,A,Regulatory T cell,0.428295708
+2171,B,Regulatory T cell,0.471235373
+2172,B,Regulatory T cell,0.427217727
+2173,B,Regulatory T cell,0.375412231
+2174,B,Regulatory T cell,0.388316173
+2175,B,Regulatory T cell,0.373262678
+2176,A,Regulatory T cell,0.494410295
+2177,A,Regulatory T cell,0.473681732
+2178,A,Regulatory T cell,0.428451612
+2179,B,Regulatory T cell,0.502501305
+2180,A,Regulatory T cell,0.380504244
+2181,B,Regulatory T cell,0.521424673
+2182,B,Regulatory T cell,0.573267607
+2183,B,Regulatory T cell,0.383846265
+2184,B,Regulatory T cell,0.762220954
+2185,B,Regulatory T cell,0.498781026
+2186,A,T follicular helper cell,0.459968236
+2187,B,T follicular helper cell,0.495728511
+2188,B,T follicular helper cell,0.520939699
+2189,B,T follicular helper cell,0.525437274
+2190,B,T follicular helper cell,0.517149196
+2191,A,T follicular helper cell,0.528534125
+2192,A,T follicular helper cell,0.602512018
+2193,A,T follicular helper cell,0.516318086
+2194,B,T follicular helper cell,0.500486475
+2195,B,T follicular helper cell,0.44610876
+2196,A,T follicular helper cell,0.461030893
+2197,A,T follicular helper cell,0.480122084
+2198,B,T follicular helper cell,0.479219699
+2199,B,T follicular helper cell,0.525656237
+2200,B,T follicular helper cell,0.515200759
+2201,A,T follicular helper cell,0.439385458
+2202,B,T follicular helper cell,0.55490191
+2203,A,T follicular helper cell,0.507001287
+2204,B,T follicular helper cell,0.55208217
+2205,B,T follicular helper cell,0.49014991
+2206,B,T follicular helper cell,0.585816273
+2207,B,T follicular helper cell,0.509379213
+2208,B,T follicular helper cell,0.513711311
+2209,B,T follicular helper cell,0.450030731
+2210,A,T follicular helper cell,0.445874399
+2211,A,T follicular helper cell,0.480858705
+2212,A,T follicular helper cell,0.518861588
+2213,B,T follicular helper cell,0.491497154
+2214,B,T follicular helper cell,0.58729578
+2215,A,T follicular helper cell,0.501600117
+2216,A,T follicular helper cell,0.445360075
+2217,B,T follicular helper cell,0.492556483
+2218,B,T follicular helper cell,0.52875985
+2219,A,T follicular helper cell,0.552970576
+2220,B,T follicular helper cell,0.548568143
+2221,B,T follicular helper cell,0.547653373
+2222,A,T follicular helper cell,0.563295326
+2223,A,T follicular helper cell,0.47883709
+2224,A,T follicular helper cell,0.495940334
+2225,A,T follicular helper cell,0.512984742
+2226,B,T follicular helper cell,0.5369684
+2227,B,T follicular helper cell,0.520322542
+2228,A,T follicular helper cell,0.503872526
+2229,A,T follicular helper cell,0.553569155
+2230,A,T follicular helper cell,0.462784352
+2231,B,T follicular helper cell,0.536844031
+2232,B,T follicular helper cell,0.502224201
+2233,B,T follicular helper cell,0.510479156
+2234,B,T follicular helper cell,0.537206015
+2235,B,T follicular helper cell,0.493860438
+2236,B,T follicular helper cell,0.496549812
+2237,B,T follicular helper cell,0.512040756
+2238,B,T follicular helper cell,0.536048974
+2239,B,T follicular helper cell,0.531920274
+2240,B,T follicular helper cell,0.485956978
+2241,B,T follicular helper cell,0.548749463
+2242,A,T follicular helper cell,0.455863042
+2243,B,T follicular helper cell,0.51836063
+2244,B,T follicular helper cell,0.532362142
+2245,B,T follicular helper cell,0.511980585
+2246,B,T follicular helper cell,0.547965756
+2247,A,T follicular helper cell,0.46391406
+2248,A,T follicular helper cell,0.515724558
+2249,A,T follicular helper cell,0.454055
+2250,B,T follicular helper cell,0.532213934
+2251,B,T follicular helper cell,0.54128043
+2252,B,T follicular helper cell,0.512661582
+2253,A,T follicular helper cell,0.590323742
+2254,A,T follicular helper cell,0.523553726
+2255,B,T follicular helper cell,0.496537331
+2256,B,T follicular helper cell,0.53841265
+2257,A,T follicular helper cell,0.501881764
+2258,B,T follicular helper cell,0.514737255
+2259,B,T follicular helper cell,0.51323107
+2260,B,T follicular helper cell,0.450579596
+2261,A,T follicular helper cell,0.555712975
+2262,A,T follicular helper cell,0.572034235
+2263,B,T follicular helper cell,0.516030774
+2264,A,T follicular helper cell,0.540787288
+2265,A,T follicular helper cell,0.511309132
+2266,B,T follicular helper cell,0.521843911
+2267,B,T follicular helper cell,0.535728897
+2268,A,T follicular helper cell,0.507394356
+2269,B,T follicular helper cell,0.487085279
+2270,B,T follicular helper cell,0.532266537
+2271,B,T follicular helper cell,0.468166104
+2272,B,T follicular helper cell,0.497097756
+2273,B,T follicular helper cell,0.479337555
+2274,B,T follicular helper cell,0.477603942
+2275,B,T follicular helper cell,0.48813836
+2276,B,T follicular helper cell,0.545787968
+2277,B,T follicular helper cell,0.49411134
+2278,A,T follicular helper cell,0.490126759
+2279,A,T follicular helper cell,0.529525705
+2280,B,T follicular helper cell,0.548941525
+2281,B,T follicular helper cell,0.492093136
+2282,B,T follicular helper cell,0.525282225
+2283,B,T follicular helper cell,0.453154347
+2284,B,T follicular helper cell,0.529703158
+2285,A,T follicular helper cell,0.448247804
+2286,B,T follicular helper cell,0.512227412
+2287,B,T follicular helper cell,0.468177904
+2288,B,T follicular helper cell,0.447079713
+2289,B,T follicular helper cell,0.48733045
+2290,B,T follicular helper cell,0.468250138
+2291,A,T follicular helper cell,0.549717987
+2292,A,T follicular helper cell,0.52537923
+2293,A,T follicular helper cell,0.467187415
+2294,B,T follicular helper cell,0.538346057
+2295,A,T follicular helper cell,0.475926069
+2296,B,T follicular helper cell,0.521871348
+2297,B,T follicular helper cell,0.541728566
+2298,B,T follicular helper cell,0.500951211
+2299,B,T follicular helper cell,0.643239113
+2300,B,T follicular helper cell,0.483271182
+2301,A,Type 1 T helper cell,0.441793408
+2302,B,Type 1 T helper cell,0.505595993
+2303,B,Type 1 T helper cell,0.517623945
+2304,B,Type 1 T helper cell,0.546189463
+2305,B,Type 1 T helper cell,0.51555304
+2306,A,Type 1 T helper cell,0.452493939
+2307,A,Type 1 T helper cell,0.587168019
+2308,A,Type 1 T helper cell,0.502040701
+2309,B,Type 1 T helper cell,0.545545782
+2310,B,Type 1 T helper cell,0.467045861
+2311,A,Type 1 T helper cell,0.461632131
+2312,A,Type 1 T helper cell,0.427277185
+2313,B,Type 1 T helper cell,0.551063414
+2314,B,Type 1 T helper cell,0.51642993
+2315,B,Type 1 T helper cell,0.532060969
+2316,A,Type 1 T helper cell,0.449861162
+2317,B,Type 1 T helper cell,0.518264522
+2318,A,Type 1 T helper cell,0.464971166
+2319,B,Type 1 T helper cell,0.485791815
+2320,B,Type 1 T helper cell,0.471060375
+2321,B,Type 1 T helper cell,0.547259767
+2322,B,Type 1 T helper cell,0.490398229
+2323,B,Type 1 T helper cell,0.532471653
+2324,B,Type 1 T helper cell,0.513899594
+2325,A,Type 1 T helper cell,0.465919015
+2326,A,Type 1 T helper cell,0.452027729
+2327,A,Type 1 T helper cell,0.504311643
+2328,B,Type 1 T helper cell,0.507711425
+2329,B,Type 1 T helper cell,0.57382698
+2330,A,Type 1 T helper cell,0.510653898
+2331,A,Type 1 T helper cell,0.491739023
+2332,B,Type 1 T helper cell,0.519585702
+2333,B,Type 1 T helper cell,0.51464342
+2334,A,Type 1 T helper cell,0.517182221
+2335,B,Type 1 T helper cell,0.509958933
+2336,B,Type 1 T helper cell,0.506072631
+2337,A,Type 1 T helper cell,0.488935824
+2338,A,Type 1 T helper cell,0.448536181
+2339,A,Type 1 T helper cell,0.442730461
+2340,A,Type 1 T helper cell,0.50351598
+2341,B,Type 1 T helper cell,0.532714348
+2342,B,Type 1 T helper cell,0.536418441
+2343,A,Type 1 T helper cell,0.474074085
+2344,A,Type 1 T helper cell,0.514255898
+2345,A,Type 1 T helper cell,0.468113229
+2346,B,Type 1 T helper cell,0.519208248
+2347,B,Type 1 T helper cell,0.575579703
+2348,B,Type 1 T helper cell,0.561476967
+2349,B,Type 1 T helper cell,0.504694919
+2350,B,Type 1 T helper cell,0.446719793
+2351,B,Type 1 T helper cell,0.502801238
+2352,B,Type 1 T helper cell,0.499013039
+2353,B,Type 1 T helper cell,0.527015078
+2354,B,Type 1 T helper cell,0.549822557
+2355,B,Type 1 T helper cell,0.464691058
+2356,B,Type 1 T helper cell,0.504709007
+2357,A,Type 1 T helper cell,0.459600765
+2358,B,Type 1 T helper cell,0.502022746
+2359,B,Type 1 T helper cell,0.525765963
+2360,B,Type 1 T helper cell,0.501871304
+2361,B,Type 1 T helper cell,0.51198412
+2362,A,Type 1 T helper cell,0.464713167
+2363,A,Type 1 T helper cell,0.4634347
+2364,A,Type 1 T helper cell,0.464984022
+2365,B,Type 1 T helper cell,0.507742298
+2366,B,Type 1 T helper cell,0.549364769
+2367,B,Type 1 T helper cell,0.537072072
+2368,A,Type 1 T helper cell,0.592636562
+2369,A,Type 1 T helper cell,0.503575482
+2370,B,Type 1 T helper cell,0.467899464
+2371,B,Type 1 T helper cell,0.518484827
+2372,A,Type 1 T helper cell,0.463053633
+2373,B,Type 1 T helper cell,0.480145247
+2374,B,Type 1 T helper cell,0.517901629
+2375,B,Type 1 T helper cell,0.471499799
+2376,A,Type 1 T helper cell,0.563197539
+2377,A,Type 1 T helper cell,0.547506808
+2378,B,Type 1 T helper cell,0.515856436
+2379,A,Type 1 T helper cell,0.472458376
+2380,A,Type 1 T helper cell,0.459252171
+2381,B,Type 1 T helper cell,0.579644862
+2382,B,Type 1 T helper cell,0.486030558
+2383,A,Type 1 T helper cell,0.51026286
+2384,B,Type 1 T helper cell,0.490442861
+2385,B,Type 1 T helper cell,0.480558321
+2386,B,Type 1 T helper cell,0.491992431
+2387,B,Type 1 T helper cell,0.489730009
+2388,B,Type 1 T helper cell,0.467997496
+2389,B,Type 1 T helper cell,0.453324758
+2390,B,Type 1 T helper cell,0.454404893
+2391,B,Type 1 T helper cell,0.546288817
+2392,B,Type 1 T helper cell,0.525861205
+2393,A,Type 1 T helper cell,0.445805377
+2394,A,Type 1 T helper cell,0.468266727
+2395,B,Type 1 T helper cell,0.549561149
+2396,B,Type 1 T helper cell,0.489652265
+2397,B,Type 1 T helper cell,0.495651485
+2398,B,Type 1 T helper cell,0.503063341
+2399,B,Type 1 T helper cell,0.554650997
+2400,A,Type 1 T helper cell,0.473361468
+2401,B,Type 1 T helper cell,0.47790138
+2402,B,Type 1 T helper cell,0.490530151
+2403,B,Type 1 T helper cell,0.479488183
+2404,B,Type 1 T helper cell,0.471504865
+2405,B,Type 1 T helper cell,0.488066092
+2406,A,Type 1 T helper cell,0.507688128
+2407,A,Type 1 T helper cell,0.515302289
+2408,A,Type 1 T helper cell,0.499464133
+2409,B,Type 1 T helper cell,0.478289402
+2410,A,Type 1 T helper cell,0.499286433
+2411,B,Type 1 T helper cell,0.513825184
+2412,B,Type 1 T helper cell,0.574144428
+2413,B,Type 1 T helper cell,0.452405404
+2414,B,Type 1 T helper cell,0.593055199
+2415,B,Type 1 T helper cell,0.476195145
+2416,A,Type 17 T helper cell,0.410078749
+2417,B,Type 17 T helper cell,0.349475548
+2418,B,Type 17 T helper cell,0.355606171
+2419,B,Type 17 T helper cell,0.406025639
+2420,B,Type 17 T helper cell,0.349888035
+2421,A,Type 17 T helper cell,0.351837492
+2422,A,Type 17 T helper cell,0.331307438
+2423,A,Type 17 T helper cell,0.316489842
+2424,B,Type 17 T helper cell,0.559014178
+2425,B,Type 17 T helper cell,0.358613272
+2426,A,Type 17 T helper cell,0.343928564
+2427,A,Type 17 T helper cell,0.399987135
+2428,B,Type 17 T helper cell,0.347387869
+2429,B,Type 17 T helper cell,0.353556519
+2430,B,Type 17 T helper cell,0.273131489
+2431,A,Type 17 T helper cell,0.282704686
+2432,B,Type 17 T helper cell,0.323654113
+2433,A,Type 17 T helper cell,0.372501494
+2434,B,Type 17 T helper cell,0.338228563
+2435,B,Type 17 T helper cell,0.364656361
+2436,B,Type 17 T helper cell,0.335652641
+2437,B,Type 17 T helper cell,0.367736691
+2438,B,Type 17 T helper cell,0.378818412
+2439,B,Type 17 T helper cell,0.363299579
+2440,A,Type 17 T helper cell,0.342862052
+2441,A,Type 17 T helper cell,0.377871696
+2442,A,Type 17 T helper cell,0.34582492
+2443,B,Type 17 T helper cell,0.319532222
+2444,B,Type 17 T helper cell,0.43443054
+2445,A,Type 17 T helper cell,0.362949555
+2446,A,Type 17 T helper cell,0.397811045
+2447,B,Type 17 T helper cell,0.374348275
+2448,B,Type 17 T helper cell,0.355753409
+2449,A,Type 17 T helper cell,0.382896923
+2450,B,Type 17 T helper cell,0.324305992
+2451,B,Type 17 T helper cell,0.300348414
+2452,A,Type 17 T helper cell,0.325522533
+2453,A,Type 17 T helper cell,0.321788844
+2454,A,Type 17 T helper cell,0.358802471
+2455,A,Type 17 T helper cell,0.392660911
+2456,B,Type 17 T helper cell,0.426907735
+2457,B,Type 17 T helper cell,0.32610539
+2458,A,Type 17 T helper cell,0.367439549
+2459,A,Type 17 T helper cell,0.324639343
+2460,A,Type 17 T helper cell,0.421564775
+2461,B,Type 17 T helper cell,0.344767235
+2462,B,Type 17 T helper cell,0.39351487
+2463,B,Type 17 T helper cell,0.401077125
+2464,B,Type 17 T helper cell,0.382949071
+2465,B,Type 17 T helper cell,0.411943259
+2466,B,Type 17 T helper cell,0.36353619
+2467,B,Type 17 T helper cell,0.325774207
+2468,B,Type 17 T helper cell,0.415302098
+2469,B,Type 17 T helper cell,0.36970999
+2470,B,Type 17 T helper cell,0.431959565
+2471,B,Type 17 T helper cell,0.348968951
+2472,A,Type 17 T helper cell,0.385249258
+2473,B,Type 17 T helper cell,0.448532593
+2474,B,Type 17 T helper cell,0.343881134
+2475,B,Type 17 T helper cell,0.342365075
+2476,B,Type 17 T helper cell,0.36530752
+2477,A,Type 17 T helper cell,0.366176009
+2478,A,Type 17 T helper cell,0.305261975
+2479,A,Type 17 T helper cell,0.316441706
+2480,B,Type 17 T helper cell,0.36951216
+2481,B,Type 17 T helper cell,0.394366725
+2482,B,Type 17 T helper cell,0.309143794
+2483,A,Type 17 T helper cell,0.340463376
+2484,A,Type 17 T helper cell,0.351405411
+2485,B,Type 17 T helper cell,0.368143906
+2486,B,Type 17 T helper cell,0.357885577
+2487,A,Type 17 T helper cell,0.367208642
+2488,B,Type 17 T helper cell,0.354947297
+2489,B,Type 17 T helper cell,0.384801477
+2490,B,Type 17 T helper cell,0.402708002
+2491,A,Type 17 T helper cell,0.323858387
+2492,A,Type 17 T helper cell,0.346046
+2493,B,Type 17 T helper cell,0.394655406
+2494,A,Type 17 T helper cell,0.294748569
+2495,A,Type 17 T helper cell,0.325188219
+2496,B,Type 17 T helper cell,0.38470781
+2497,B,Type 17 T helper cell,0.438314165
+2498,A,Type 17 T helper cell,0.326018302
+2499,B,Type 17 T helper cell,0.360105627
+2500,B,Type 17 T helper cell,0.369543995
+2501,B,Type 17 T helper cell,0.373305612
+2502,B,Type 17 T helper cell,0.356307682
+2503,B,Type 17 T helper cell,0.364851728
+2504,B,Type 17 T helper cell,0.376144654
+2505,B,Type 17 T helper cell,0.306311417
+2506,B,Type 17 T helper cell,0.382435729
+2507,B,Type 17 T helper cell,0.414458203
+2508,A,Type 17 T helper cell,0.327743029
+2509,A,Type 17 T helper cell,0.32792737
+2510,B,Type 17 T helper cell,0.333990586
+2511,B,Type 17 T helper cell,0.413073496
+2512,B,Type 17 T helper cell,0.302542031
+2513,B,Type 17 T helper cell,0.401778182
+2514,B,Type 17 T helper cell,0.370132423
+2515,A,Type 17 T helper cell,0.404984301
+2516,B,Type 17 T helper cell,0.345633435
+2517,B,Type 17 T helper cell,0.31577594
+2518,B,Type 17 T helper cell,0.399541717
+2519,B,Type 17 T helper cell,0.343117645
+2520,B,Type 17 T helper cell,0.316451303
+2521,A,Type 17 T helper cell,0.3544198
+2522,A,Type 17 T helper cell,0.301343423
+2523,A,Type 17 T helper cell,0.343092345
+2524,B,Type 17 T helper cell,0.404638022
+2525,A,Type 17 T helper cell,0.304660895
+2526,B,Type 17 T helper cell,0.33841873
+2527,B,Type 17 T helper cell,0.392444366
+2528,B,Type 17 T helper cell,0.356296217
+2529,B,Type 17 T helper cell,0.454813516
+2530,B,Type 17 T helper cell,0.361554596
+2531,A,Type 2 T helper cell,0.495519675
+2532,B,Type 2 T helper cell,0.416431803
+2533,B,Type 2 T helper cell,0.414493415
+2534,B,Type 2 T helper cell,0.404192621
+2535,B,Type 2 T helper cell,0.437668343
+2536,A,Type 2 T helper cell,0.427141681
+2537,A,Type 2 T helper cell,0.491944506
+2538,A,Type 2 T helper cell,0.510219773
+2539,B,Type 2 T helper cell,0.484005594
+2540,B,Type 2 T helper cell,0.384742199
+2541,A,Type 2 T helper cell,0.539894318
+2542,A,Type 2 T helper cell,0.473700021
+2543,B,Type 2 T helper cell,0.412342384
+2544,B,Type 2 T helper cell,0.456412553
+2545,B,Type 2 T helper cell,0.398902253
+2546,A,Type 2 T helper cell,0.457282899
+2547,B,Type 2 T helper cell,0.4202081
+2548,A,Type 2 T helper cell,0.481463061
+2549,B,Type 2 T helper cell,0.416470078
+2550,B,Type 2 T helper cell,0.420671513
+2551,B,Type 2 T helper cell,0.47908779
+2552,B,Type 2 T helper cell,0.399042023
+2553,B,Type 2 T helper cell,0.445933047
+2554,B,Type 2 T helper cell,0.453608867
+2555,A,Type 2 T helper cell,0.46856984
+2556,A,Type 2 T helper cell,0.543754433
+2557,A,Type 2 T helper cell,0.458556473
+2558,B,Type 2 T helper cell,0.422135854
+2559,B,Type 2 T helper cell,0.543360441
+2560,A,Type 2 T helper cell,0.527360909
+2561,A,Type 2 T helper cell,0.418560506
+2562,B,Type 2 T helper cell,0.418614571
+2563,B,Type 2 T helper cell,0.446294203
+2564,A,Type 2 T helper cell,0.485295336
+2565,B,Type 2 T helper cell,0.444830738
+2566,B,Type 2 T helper cell,0.442182669
+2567,A,Type 2 T helper cell,0.47239549
+2568,A,Type 2 T helper cell,0.463329534
+2569,A,Type 2 T helper cell,0.407313931
+2570,A,Type 2 T helper cell,0.452095743
+2571,B,Type 2 T helper cell,0.509109201
+2572,B,Type 2 T helper cell,0.449546464
+2573,A,Type 2 T helper cell,0.500388383
+2574,A,Type 2 T helper cell,0.486821822
+2575,A,Type 2 T helper cell,0.514161351
+2576,B,Type 2 T helper cell,0.464210014
+2577,B,Type 2 T helper cell,0.490433922
+2578,B,Type 2 T helper cell,0.447897438
+2579,B,Type 2 T helper cell,0.424455151
+2580,B,Type 2 T helper cell,0.399169685
+2581,B,Type 2 T helper cell,0.437421157
+2582,B,Type 2 T helper cell,0.508137701
+2583,B,Type 2 T helper cell,0.428701525
+2584,B,Type 2 T helper cell,0.447822061
+2585,B,Type 2 T helper cell,0.441082325
+2586,B,Type 2 T helper cell,0.439604968
+2587,A,Type 2 T helper cell,0.446673108
+2588,B,Type 2 T helper cell,0.458624771
+2589,B,Type 2 T helper cell,0.510208371
+2590,B,Type 2 T helper cell,0.525747029
+2591,B,Type 2 T helper cell,0.426467048
+2592,A,Type 2 T helper cell,0.448471097
+2593,A,Type 2 T helper cell,0.442702282
+2594,A,Type 2 T helper cell,0.461077768
+2595,B,Type 2 T helper cell,0.435996699
+2596,B,Type 2 T helper cell,0.438947178
+2597,B,Type 2 T helper cell,0.443876405
+2598,A,Type 2 T helper cell,0.500953549
+2599,A,Type 2 T helper cell,0.528916458
+2600,B,Type 2 T helper cell,0.484121004
+2601,B,Type 2 T helper cell,0.444665455
+2602,A,Type 2 T helper cell,0.460618665
+2603,B,Type 2 T helper cell,0.439738783
+2604,B,Type 2 T helper cell,0.475065036
+2605,B,Type 2 T helper cell,0.396958325
+2606,A,Type 2 T helper cell,0.43388961
+2607,A,Type 2 T helper cell,0.467579214
+2608,B,Type 2 T helper cell,0.41868264
+2609,A,Type 2 T helper cell,0.431246154
+2610,A,Type 2 T helper cell,0.441592917
+2611,B,Type 2 T helper cell,0.462896545
+2612,B,Type 2 T helper cell,0.435958371
+2613,A,Type 2 T helper cell,0.494590131
+2614,B,Type 2 T helper cell,0.421770335
+2615,B,Type 2 T helper cell,0.403325898
+2616,B,Type 2 T helper cell,0.434939813
+2617,B,Type 2 T helper cell,0.415430975
+2618,B,Type 2 T helper cell,0.52510674
+2619,B,Type 2 T helper cell,0.425186562
+2620,B,Type 2 T helper cell,0.397018362
+2621,B,Type 2 T helper cell,0.42646871
+2622,B,Type 2 T helper cell,0.420081091
+2623,A,Type 2 T helper cell,0.518238987
+2624,A,Type 2 T helper cell,0.464189235
+2625,B,Type 2 T helper cell,0.449848581
+2626,B,Type 2 T helper cell,0.441932989
+2627,B,Type 2 T helper cell,0.495607274
+2628,B,Type 2 T helper cell,0.455091357
+2629,B,Type 2 T helper cell,0.442601025
+2630,A,Type 2 T helper cell,0.492403265
+2631,B,Type 2 T helper cell,0.448888117
+2632,B,Type 2 T helper cell,0.42372642
+2633,B,Type 2 T helper cell,0.396423316
+2634,B,Type 2 T helper cell,0.421070705
+2635,B,Type 2 T helper cell,0.5014266
+2636,A,Type 2 T helper cell,0.461500528
+2637,A,Type 2 T helper cell,0.480219405
+2638,A,Type 2 T helper cell,0.465546524
+2639,B,Type 2 T helper cell,0.387334904
+2640,A,Type 2 T helper cell,0.496654462
+2641,B,Type 2 T helper cell,0.455551908
+2642,B,Type 2 T helper cell,0.474098177
+2643,B,Type 2 T helper cell,0.415068576
+2644,B,Type 2 T helper cell,0.488904086
+2645,B,Type 2 T helper cell,0.424221352

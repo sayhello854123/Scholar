@@ -1,0 +1,33 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1652970180257
+param	zip_report	false
+param	num	100
+param	scoring_scheme	weighted
+param	norm	meandiv
+param	out	C:\Users\16385\Desktop\05.macrophage\09.gsea
+param	mode	Max_probe
+param	include_only_symbols	true
+param	set_max	500
+param	gmx	ftp.broadinstitute.org://pub/gsea/gene_sets/c2.cp.kegg.v7.5.symbols.gmt
+param	plot_top_x	50
+param	nperm	1000
+param	order	descending
+param	rpt_label	my_analysis1
+param	rnd_seed	timestamp
+param	set_min	15
+param	res	C:\Users\16385\Desktop\05.macrophage\09.gsea\my.gct
+param	create_svgs	false
+param	cls	C:\Users\16385\Desktop\05.macrophage\09.gsea\my.cls#B_versus_A
+param	sort	real
+param	create_gcts	false
+param	help	false
+param	save_rnd_lists	false
+param	median	false
+param	metric	Signal2Noise
+param	make_sets	true
+param	rnd_type	no_balance
+param	gui	false
+param	permute	phenotype
+param	collapse	No_Collapse
+
+file	C:\Users\16385\Desktop\05.macrophage\09.gsea\my_analysis1.Gsea.1652970180257\index.html
